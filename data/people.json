@@ -1,0 +1,1464 @@
+{
+  "people": [
+    {
+      "entity_id": "pers_elon_musk",
+      "name": "elon musk",
+      "aliases": [
+        "musk"
+      ],
+      "descriptors": [
+        "ceo of tesla",
+        "ceo of spacex"
+      ]
+    },
+    {
+      "entity_id": "pers_jeff_bezos",
+      "name": "jeff bezos",
+      "aliases": [
+        "bezos"
+      ],
+      "descriptors": [
+        "ceo of amazon",
+        "founder of blue origin"
+      ]
+    },
+    {
+      "entity_id": "pers_satya_nadella",
+      "name": "satya nadella",
+      "aliases": [
+        "nadella"
+      ],
+      "descriptors": [
+        "ceo of microsoft"
+      ]
+    },
+    {
+      "entity_id": "pers_sundar_pichai",
+      "name": "sundar pichai",
+      "aliases": [
+        "pichai"
+      ],
+      "descriptors": [
+        "ceo of google",
+        "ceo of alphabet"
+      ]
+    },
+    {
+      "entity_id": "pers_tim_cook",
+      "name": "tim cook",
+      "aliases": [],
+      "descriptors": [
+        "ceo of apple",
+        "cook"
+      ]
+    },
+    {
+      "entity_id": "pers_mark_zuckerberg",
+      "name": "mark zuckerberg",
+      "aliases": [
+        "zuckerberg"
+      ],
+      "descriptors": [
+        "ceo of meta",
+        "facebook founder"
+      ]
+    },
+    {
+      "entity_id": "pers_jensen_huang",
+      "name": "jensen huang",
+      "aliases": [
+        "huang",
+        "gpu architect"
+      ],
+      "descriptors": [
+        "ceo of nvidia"
+      ]
+    },
+    {
+      "entity_id": "pers_lisa_su",
+      "name": "lisa su",
+      "aliases": [
+        "su"
+      ],
+      "descriptors": [
+        "ceo of amd"
+      ]
+    },
+    {
+      "entity_id": "pers_sam_altman",
+      "name": "sam altman",
+      "aliases": [
+        "altman"
+      ],
+      "descriptors": [
+        "ceo of openai"
+      ]
+    },
+    {
+      "entity_id": "pers_jack_dorsey",
+      "name": "jack dorsey",
+      "aliases": [
+        "dorsey"
+      ],
+      "descriptors": [
+        "ceo of block",
+        "founder of twitter"
+      ]
+    },
+    {
+      "entity_id": "pers_marc_andreessen",
+      "name": "marc andreessen",
+      "aliases": [
+        "andreessen horowitz",
+        "venture capitalist",
+        "andreessen"
+      ],
+      "descriptors": []
+    },
+    {
+      "entity_id": "pers_reid_hoffman",
+      "name": "reid hoffman",
+      "aliases": [
+        "hoffman"
+      ],
+      "descriptors": [
+        "linkedin founder"
+      ]
+    },
+    {
+      "entity_id": "pers_susan_wojcicki",
+      "name": "susan wojcicki",
+      "aliases": [
+        "wojcicki"
+      ],
+      "descriptors": [
+        "former ceo of youtube"
+      ]
+    },
+    {
+      "entity_id": "pers_andrew_ng",
+      "name": "andrew ng",
+      "aliases": [
+        "ng"
+      ],
+      "descriptors": [
+        "deeplearning.ai founder",
+        "coursera cofounder"
+      ]
+    },
+    {
+      "entity_id": "pers_drew_houston",
+      "name": "drew houston",
+      "aliases": [
+        "houston"
+      ],
+      "descriptors": [
+        "ceo of dropbox"
+      ]
+    },
+    {
+      "entity_id": "pers_alexandr_wang",
+      "name": "alexandr wang",
+      "aliases": [
+        "wang"
+      ],
+      "descriptors": [
+        "ceo of scale ai"
+      ]
+    },
+    {
+      "entity_id": "pers_mary_barra",
+      "name": "mary barra",
+      "aliases": [
+        "barra"
+      ],
+      "descriptors": [
+        "ceo of general motors"
+      ]
+    },
+    {
+      "entity_id": "pers_sheryl_sandberg",
+      "name": "sheryl sandberg",
+      "aliases": [
+        "sandberg"
+      ],
+      "descriptors": [
+        "former coo of meta"
+      ]
+    },
+    {
+      "entity_id": "pers_patrick_collison",
+      "name": "patrick collison",
+      "aliases": [
+        "collison"
+      ],
+      "descriptors": [
+        "stripe ceo"
+      ]
+    },
+    {
+      "entity_id": "pers_brian_chesky",
+      "name": "brian chesky",
+      "aliases": [
+        "chesky"
+      ],
+      "descriptors": [
+        "ceo of airbnb"
+      ]
+    },
+    {
+      "entity_id": "pers_larry_ellison",
+      "name": "larry ellison",
+      "aliases": [
+        "ellison"
+      ],
+      "descriptors": [
+        "cofounder of oracle",
+        "oracle founder"
+      ]
+    },
+    {
+      "entity_id": "pers_arvind_krishna",
+      "name": "arvind krishna",
+      "aliases": [
+        "krishna"
+      ],
+      "descriptors": [
+        "ceo of ibm"
+      ]
+    },
+    {
+      "entity_id": "pers_adam_selipsky",
+      "name": "adam selipsky",
+      "aliases": [
+        "selipsky"
+      ],
+      "descriptors": [
+        "ceo of aws"
+      ]
+    },
+    {
+      "entity_id": "pers_patrick_gelsinger",
+      "name": "patrick gelsinger",
+      "aliases": [
+        "gelsinger"
+      ],
+      "descriptors": [
+        "former ceo of intel"
+      ]
+    },
+    {
+      "entity_id": "pers_reed_hastings",
+      "name": "reed hastings",
+      "aliases": [
+        "hastings"
+      ],
+      "descriptors": [
+        "former ceo of netflix"
+      ]
+    },
+    {
+      "entity_id": "pers_michael_dell",
+      "name": "michael dell",
+      "aliases": [
+        "dell"
+      ],
+      "descriptors": [
+        "ceo of dell technologies"
+      ]
+    },
+    {
+      "entity_id": "pers_kathryn_hauck",
+      "name": "kathryn hauck",
+      "aliases": [
+        "hauck"
+      ],
+      "descriptors": [
+        "engineering leader at google"
+      ]
+    },
+    {
+      "entity_id": "pers_jim_kim",
+      "name": "jim kim",
+      "aliases": [
+        "jim kim"
+      ],
+      "descriptors": [
+        "former president of world bank & technologist"
+      ]
+    },
+    {
+      "entity_id": "pers_liz_smith",
+      "name": "liz smith",
+      "aliases": [
+        "liz smith"
+      ],
+      "descriptors": [
+        "chief technology officer at major tech firm"
+      ]
+    },
+    {
+      "entity_id": "pers_maxine_watson",
+      "name": "maxine watson",
+      "aliases": [
+        "watson"
+      ],
+      "descriptors": [
+        "senior engineer at ai research firm"
+      ]
+    },
+    {
+      "entity_id": "pers_janet_yellen",
+      "name": "janet yellen",
+      "aliases": [
+        "yellen"
+      ],
+      "descriptors": [
+        "us treasury secretary",
+        "treasury secretary"
+      ]
+    },
+    {
+      "entity_id": "pers_jerome_powell",
+      "name": "jerome powell",
+      "aliases": [
+        "powell"
+      ],
+      "descriptors": [
+        "chair of federal reserve",
+        "fed chairman"
+      ]
+    },
+    {
+      "entity_id": "pers_kristalina_georgieva",
+      "name": "kristalina georgieva",
+      "aliases": [
+        "georgieva"
+      ],
+      "descriptors": [
+        "managing director of international monetary fund",
+        "imf md"
+      ]
+    },
+    {
+      "entity_id": "pers_lawrence_summers",
+      "name": "lawrence summers",
+      "aliases": [],
+      "descriptors": [
+        "former us treasury secretary",
+        "economist summers"
+      ]
+    },
+    {
+      "entity_id": "pers_mohammed_al_jadaan",
+      "name": "mohammed al-jadaan",
+      "aliases": [
+        "al-jadaan"
+      ],
+      "descriptors": [
+        "finance minister of saudi arabia",
+        "saudi finance minister"
+      ]
+    },
+    {
+      "entity_id": "pers_bruno_le_maire",
+      "name": "bruno le maire",
+      "aliases": [
+        "le maire"
+      ],
+      "descriptors": [
+        "finance minister of france",
+        "french finance minister"
+      ]
+    },
+    {
+      "entity_id": "pers_aitor_safont",
+      "name": "aitor safont",
+      "aliases": [
+        "safont"
+      ],
+      "descriptors": [
+        "european central bank economist"
+      ]
+    },
+    {
+      "entity_id": "pers_rupert_russell",
+      "name": "rupert russell",
+      "aliases": [
+        "russell"
+      ],
+      "descriptors": [
+        "chief economic advisor uk"
+      ]
+    },
+    {
+      "entity_id": "pers_yanis_varoufakis",
+      "name": "yanis varoufakis",
+      "aliases": [
+        "varoufakis"
+      ],
+      "descriptors": [
+        "greek economist",
+        "former finance minister of greece"
+      ]
+    },
+    {
+      "entity_id": "pers_tharman_shanmugaratnam",
+      "name": "tharman shanmugaratnam",
+      "aliases": [
+        "tharman"
+      ],
+      "descriptors": [
+        "singapore finance minister",
+        "economic minister"
+      ]
+    },
+    {
+      "entity_id": "pers_nguzi_okonjo_iweala",
+      "name": "nguzi okonjo-iweala",
+      "aliases": [
+        "wto chief",
+        "okonjo-iweala"
+      ],
+      "descriptors": [
+        "director-general of world trade organization"
+      ]
+    },
+    {
+      "entity_id": "pers_jerome_hagel",
+      "name": "jerome hagel",
+      "aliases": [
+        "hagel"
+      ],
+      "descriptors": [
+        "economic policy director usa"
+      ]
+    },
+    {
+      "entity_id": "pers_pascal_donohoe",
+      "name": "pascal donohoe",
+      "aliases": [
+        "donohoe"
+      ],
+      "descriptors": [
+        "finance minister of ireland"
+      ]
+    },
+    {
+      "entity_id": "pers_eliezer_albin",
+      "name": "eliezer albin",
+      "aliases": [
+        "albin"
+      ],
+      "descriptors": [
+        "economist"
+      ]
+    },
+    {
+      "entity_id": "pers_christine_lagarde",
+      "name": "christine lagarde",
+      "aliases": [
+        "lagarde"
+      ],
+      "descriptors": [
+        "president of european central bank",
+        "ecb president"
+      ]
+    },
+    {
+      "entity_id": "pers_ugo_la_malfa",
+      "name": "ugo la malfa",
+      "aliases": [
+        "la malfa"
+      ],
+      "descriptors": [
+        "economist"
+      ]
+    },
+    {
+      "entity_id": "pers_gideon_rachman",
+      "name": "gideon rachman",
+      "aliases": [
+        "economics commentator",
+        "rachman"
+      ],
+      "descriptors": []
+    },
+    {
+      "entity_id": "pers_nouriel_roubini",
+      "name": "nouriel roubini",
+      "aliases": [
+        "roubini"
+      ],
+      "descriptors": [
+        "economist"
+      ]
+    },
+    {
+      "entity_id": "pers_allan_blinder",
+      "name": "allan blinder",
+      "aliases": [
+        "blinder"
+      ],
+      "descriptors": [
+        "economist"
+      ]
+    },
+    {
+      "entity_id": "pers_merkel_monet",
+      "name": "merkel monet",
+      "aliases": [
+        "monet"
+      ],
+      "descriptors": [
+        "policy adviser"
+      ]
+    },
+    {
+      "entity_id": "pers_muhammad_yunus",
+      "name": "muhammad yunus",
+      "aliases": [
+        "microfinance pioneer",
+        "yunus"
+      ],
+      "descriptors": [
+        "economist"
+      ]
+    },
+    {
+      "entity_id": "pers_christopher_low",
+      "name": "christopher low",
+      "aliases": [
+        "low"
+      ],
+      "descriptors": [
+        "economist"
+      ]
+    },
+    {
+      "entity_id": "pers_ellen_meyer",
+      "name": "ellen meyer",
+      "aliases": [
+        "meyer"
+      ],
+      "descriptors": [
+        "economist"
+      ]
+    },
+    {
+      "entity_id": "pers_francis_fukuyama",
+      "name": "francis fukuyama",
+      "aliases": [
+        "fukuyama"
+      ],
+      "descriptors": [
+        "political economist"
+      ]
+    },
+    {
+      "entity_id": "pers_claude_baron",
+      "name": "claude baron",
+      "aliases": [
+        "baron"
+      ],
+      "descriptors": [
+        "macro economist"
+      ]
+    },
+    {
+      "entity_id": "pers_andrew_betts",
+      "name": "andrew betts",
+      "aliases": [
+        "betts"
+      ],
+      "descriptors": [
+        "economist"
+      ]
+    },
+    {
+      "entity_id": "pers_samantha_power",
+      "name": "samantha power",
+      "aliases": [
+        "power"
+      ],
+      "descriptors": [
+        "economic development adviser"
+      ]
+    },
+    {
+      "entity_id": "pers_michael_spence",
+      "name": "michael spence",
+      "aliases": [
+        "spence"
+      ],
+      "descriptors": [
+        "nobel economist"
+      ]
+    },
+    {
+      "entity_id": "pers_vittorio_colao",
+      "name": "vittorio colao",
+      "aliases": [
+        "colao"
+      ],
+      "descriptors": [
+        "economic policy leader italy"
+      ]
+    },
+    {
+      "entity_id": "pers_kwon_oh_hyun",
+      "name": "kwon oh-hyun",
+      "aliases": [
+        "display",
+        "korea",
+        "kwon"
+      ],
+      "descriptors": [
+        "former ceo of samsung electronics",
+        "semiconductor"
+      ]
+    },
+    {
+      "entity_id": "pers_kyung_kye_hyun",
+      "name": "kyung kye-hyun",
+      "aliases": [
+        "memory",
+        "logic",
+        "korea",
+        "kyung"
+      ],
+      "descriptors": [
+        "ceo of samsung device solutions",
+        "semiconductor"
+      ]
+    },
+    {
+      "entity_id": "pers_han_jong_hee",
+      "name": "han jong-hee",
+      "aliases": [
+        "mobile experience",
+        "visual display",
+        "han"
+      ],
+      "descriptors": [
+        "co-ceo of samsung electronics"
+      ]
+    },
+    {
+      "entity_id": "pers_liang_hua",
+      "name": "liang hua",
+      "aliases": [
+        "telecom",
+        "smartphone",
+        "huawei"
+      ],
+      "descriptors": [
+        "chairman of huawei technologies"
+      ]
+    },
+    {
+      "entity_id": "pers_ren_zhengfei",
+      "name": "ren zhengfei",
+      "aliases": [
+        "telecom",
+        "ren"
+      ],
+      "descriptors": [
+        "founder and ceo of huawei",
+        "huawei founder"
+      ]
+    },
+    {
+      "entity_id": "pers_richard_yu_chengdong",
+      "name": "richard yu chengdong",
+      "aliases": [
+        "smartphone",
+        "yu"
+      ],
+      "descriptors": [
+        "ceo of huawei consumer business group"
+      ]
+    },
+    {
+      "entity_id": "pers_c_c_wei",
+      "name": "c. c. wei",
+      "aliases": [
+        "chip foundry",
+        "wei"
+      ],
+      "descriptors": [
+        "ceo of tsmc",
+        "taiwan semiconductor manufacturing company"
+      ]
+    },
+    {
+      "entity_id": "pers_mark_liu",
+      "name": "mark liu",
+      "aliases": [
+        "taiwan",
+        "liu"
+      ],
+      "descriptors": [
+        "chairman of tsmc",
+        "semiconductor"
+      ]
+    },
+    {
+      "entity_id": "pers_park_jung_ho",
+      "name": "park jung-ho",
+      "aliases": [
+        "memory",
+        "dram",
+        "nand",
+        "park"
+      ],
+      "descriptors": [
+        "vice chairman of sk hynix"
+      ]
+    },
+    {
+      "entity_id": "pers_kwon_young_soo",
+      "name": "kwon young-soo",
+      "aliases": [
+        "kwon"
+      ],
+      "descriptors": [
+        "former ceo of sk hynix",
+        "semiconductor"
+      ]
+    },
+    {
+      "entity_id": "pers_bang_si_hyuk",
+      "name": "bang si-hyuk",
+      "aliases": [
+        "bang pd",
+        "bts",
+        "entertainment tech"
+      ],
+      "descriptors": [
+        "founder and chairman of hybe corporation"
+      ]
+    },
+    {
+      "entity_id": "pers_min_heejin",
+      "name": "min heejin",
+      "aliases": [
+        "newjeans",
+        "min"
+      ],
+      "descriptors": [
+        "ceo of ador",
+        "subsidiary of hybe",
+        "creative director"
+      ]
+    },
+    {
+      "entity_id": "pers_masayoshi_son",
+      "name": "masayoshi son",
+      "aliases": [
+        "vision fund",
+        "japan",
+        "son"
+      ],
+      "descriptors": [
+        "founder and ceo of softbank group"
+      ]
+    },
+    {
+      "entity_id": "pers_hiroshi_mikitani",
+      "name": "hiroshi mikitani",
+      "aliases": [
+        "japan",
+        "mikitani"
+      ],
+      "descriptors": [
+        "founder and ceo of rakuten group"
+      ]
+    },
+    {
+      "entity_id": "pers_kenichiro_yoshida",
+      "name": "kenichiro yoshida",
+      "aliases": [
+        "electronics",
+        "imaging",
+        "entertainment",
+        "yoshida"
+      ],
+      "descriptors": [
+        "ceo of sony group"
+      ]
+    },
+    {
+      "entity_id": "pers_yoshihiko_suzuki",
+      "name": "yoshihiko suzuki",
+      "aliases": [
+        "imaging sensor",
+        "suzuki"
+      ],
+      "descriptors": [
+        "cto of sony",
+        "semiconductors"
+      ]
+    },
+    {
+      "entity_id": "pers_kazuhiro_tsuga",
+      "name": "kazuhiro tsuga",
+      "aliases": [
+        "japan",
+        "tsuga"
+      ],
+      "descriptors": [
+        "chairman of panasonic holdings"
+      ]
+    },
+    {
+      "entity_id": "pers_takahiro_hidaka",
+      "name": "takahiro hidaka",
+      "aliases": [
+        "japan",
+        "hidaka"
+      ],
+      "descriptors": [
+        "ceo of panasonic automotive"
+      ]
+    },
+    {
+      "entity_id": "pers_liang_rubo",
+      "name": "liang rubo",
+      "aliases": [
+        "tiktok",
+        "douyin",
+        "ai",
+        "china",
+        "liang"
+      ],
+      "descriptors": [
+        "ceo of bytedance"
+      ]
+    },
+    {
+      "entity_id": "pers_zhang_yiming",
+      "name": "zhang yiming",
+      "aliases": [
+        "ai",
+        "tiktok",
+        "china",
+        "zhang"
+      ],
+      "descriptors": [
+        "founder of bytedance"
+      ]
+    },
+    {
+      "entity_id": "pers_daniel_zhang",
+      "name": "daniel zhang",
+      "aliases": [
+        "cloud",
+        "ecommerce",
+        "zhang"
+      ],
+      "descriptors": [
+        "former ceo of alibaba group"
+      ]
+    },
+    {
+      "entity_id": "pers_eddie_wu",
+      "name": "eddie wu",
+      "aliases": [
+        "taobao",
+        "tmall",
+        "wu"
+      ],
+      "descriptors": [
+        "ceo of alibaba group"
+      ]
+    },
+    {
+      "entity_id": "pers_lei_jun",
+      "name": "lei jun",
+      "aliases": [
+        "smartphone",
+        "iot",
+        "china",
+        "lei"
+      ],
+      "descriptors": [
+        "founder and ceo of xiaomi"
+      ]
+    },
+    {
+      "entity_id": "pers_wang_chuanfu",
+      "name": "wang chuanfu",
+      "aliases": [
+        "electric vehicles",
+        "batteries",
+        "wang"
+      ],
+      "descriptors": [
+        "founder and ceo of byd"
+      ]
+    },
+    {
+      "entity_id": "pers_william_li",
+      "name": "william li",
+      "aliases": [
+        "ev",
+        "autonomous driving",
+        "china",
+        "li"
+      ],
+      "descriptors": [
+        "ceo of nio"
+      ]
+    },
+    {
+      "entity_id": "pers_he_xiaopeng",
+      "name": "he xiaopeng",
+      "aliases": [
+        "electric vehicle",
+        "china",
+        "he"
+      ],
+      "descriptors": [
+        "ceo of xpeng motors"
+      ]
+    },
+    {
+      "entity_id": "pers_li_xiang",
+      "name": "li xiang",
+      "aliases": [
+        "hybrid ev",
+        "china",
+        "li"
+      ],
+      "descriptors": [
+        "ceo of li auto"
+      ]
+    },
+    {
+      "entity_id": "pers_peter_chou",
+      "name": "peter chou",
+      "aliases": [
+        "smartphone",
+        "taiwan",
+        "chou"
+      ],
+      "descriptors": [
+        "cofounder of htc corporation"
+      ]
+    },
+    {
+      "entity_id": "pers_terry_gou",
+      "name": "terry gou",
+      "aliases": [
+        "apple supplier",
+        "gou"
+      ],
+      "descriptors": [
+        "founder of foxconn",
+        "hon hai precision"
+      ]
+    },
+    {
+      "entity_id": "pers_jason_chen",
+      "name": "jason chen",
+      "aliases": [
+        "computer",
+        "laptop",
+        "taiwan",
+        "chen"
+      ],
+      "descriptors": [
+        "ceo of acer"
+      ]
+    },
+    {
+      "entity_id": "pers_jonney_shih",
+      "name": "jonney shih",
+      "aliases": [
+        "pc hardware",
+        "taiwan",
+        "shih"
+      ],
+      "descriptors": [
+        "chairman of asus"
+      ]
+    },
+    {
+      "entity_id": "pers_forrest_li",
+      "name": "forrest li",
+      "aliases": [
+        "shopee",
+        "garena",
+        "singapore",
+        "li"
+      ],
+      "descriptors": [
+        "founder and ceo of sea ltd"
+      ]
+    },
+    {
+      "entity_id": "pers_anthony_tan",
+      "name": "anthony tan",
+      "aliases": [
+        "grab",
+        "ride hailing",
+        "singapore",
+        "tan"
+      ],
+      "descriptors": [
+        "cofounder and ceo of grab holdings"
+      ]
+    },
+    {
+      "entity_id": "pers_patrick_walujo",
+      "name": "patrick walujo",
+      "aliases": [
+        "indonesia",
+        "super app",
+        "walujo"
+      ],
+      "descriptors": [
+        "ceo of goto group"
+      ]
+    },
+    {
+      "entity_id": "pers_andre_soelistyo",
+      "name": "andre soelistyo",
+      "aliases": [
+        "indonesia",
+        "super app",
+        "soelistyo"
+      ],
+      "descriptors": [
+        "group ceo of gojek"
+      ]
+    },
+    {
+      "entity_id": "pers_willix_halim",
+      "name": "willix halim",
+      "aliases": [
+        "ecommerce",
+        "indonesia",
+        "halim"
+      ],
+      "descriptors": [
+        "ceo of bukalapak"
+      ]
+    },
+    {
+      "entity_id": "pers_ganesh_kumar_bangah",
+      "name": "ganesh kumar bangah",
+      "aliases": [
+        "mol global",
+        "malaysia",
+        "bangah"
+      ],
+      "descriptors": [
+        "founder of commerce.asia"
+      ]
+    },
+    {
+      "entity_id": "pers_caesar_sengupta",
+      "name": "caesar sengupta",
+      "aliases": [
+        "sing"
+      ],
+      "descriptors": [
+        "cofounder and ceo of arta finance"
+      ]
+    },
+    {
+      "entity_id": "pers_donald_trump",
+      "name": "donald trump",
+      "aliases": [
+        "trump"
+      ],
+      "descriptors": [
+        "president of united states",
+        "american president"
+      ]
+    },
+    {
+      "entity_id": "pers_rishi_sunak",
+      "name": "rishi sunak",
+      "aliases": [
+        "british pm",
+        "sunak"
+      ],
+      "descriptors": [
+        "prime minister of united kingdom"
+      ]
+    },
+    {
+      "entity_id": "pers_keir_starmer",
+      "name": "keir starmer",
+      "aliases": [
+        "uk pm",
+        "starmer"
+      ],
+      "descriptors": [
+        "prime minister of united kingdom"
+      ]
+    },
+    {
+      "entity_id": "pers_emmanuel_macron",
+      "name": "emmanuel macron",
+      "aliases": [
+        "macron"
+      ],
+      "descriptors": [
+        "president of france",
+        "french president"
+      ]
+    },
+    {
+      "entity_id": "pers_olaf_scholz",
+      "name": "olaf scholz",
+      "aliases": [
+        "scholz"
+      ],
+      "descriptors": [
+        "chancellor of germany",
+        "german chancellor"
+      ]
+    },
+    {
+      "entity_id": "pers_fumio_kishida",
+      "name": "fumio kishida",
+      "aliases": [
+        "japanese pm",
+        "kishida"
+      ],
+      "descriptors": [
+        "prime minister of japan"
+      ]
+    },
+    {
+      "entity_id": "pers_justin_trudeau",
+      "name": "justin trudeau",
+      "aliases": [
+        "canadian pm",
+        "trudeau"
+      ],
+      "descriptors": [
+        "prime minister of canada"
+      ]
+    },
+    {
+      "entity_id": "pers_anthony_albanese",
+      "name": "anthony albanese",
+      "aliases": [
+        "australian pm",
+        "albanese"
+      ],
+      "descriptors": [
+        "prime minister of australia"
+      ]
+    },
+    {
+      "entity_id": "pers_narendra_modi",
+      "name": "narendra modi",
+      "aliases": [
+        "indian pm",
+        "modi"
+      ],
+      "descriptors": [
+        "prime minister of india"
+      ]
+    },
+    {
+      "entity_id": "pers_joko_widodo",
+      "name": "joko widodo",
+      "aliases": [
+        "widodo"
+      ],
+      "descriptors": [
+        "president of indonesia",
+        "indonesian president"
+      ]
+    },
+    {
+      "entity_id": "pers_giorgia_meloni",
+      "name": "giorgia meloni",
+      "aliases": [
+        "italian pm",
+        "meloni"
+      ],
+      "descriptors": [
+        "prime minister of italy"
+      ]
+    },
+    {
+      "entity_id": "pers_xi_jinping",
+      "name": "xi jinping",
+      "aliases": [
+        "xi"
+      ],
+      "descriptors": [
+        "general secretary of chinese communist party",
+        "president of china"
+      ]
+    },
+    {
+      "entity_id": "pers_vladimir_putin",
+      "name": "vladimir putin",
+      "aliases": [
+        "putin"
+      ],
+      "descriptors": [
+        "president of russia",
+        "russian president"
+      ]
+    },
+    {
+      "entity_id": "pers_mohammed_bin_zayed_al_nahyan",
+      "name": "mohammed bin zayed al nahyan",
+      "aliases": [
+        "mbz",
+        "bin zayed"
+      ],
+      "descriptors": [
+        "president of united arab emirates"
+      ]
+    },
+    {
+      "entity_id": "pers_ursula_von_der_leyen",
+      "name": "ursula von der leyen",
+      "aliases": [],
+      "descriptors": [
+        "president of european commission",
+        "european commission chief",
+        "von der leyen"
+      ]
+    },
+    {
+      "entity_id": "pers_christine_lagarde",
+      "name": "christine lagarde",
+      "aliases": [
+        "lagarde"
+      ],
+      "descriptors": [
+        "president of european central bank",
+        "ecb president"
+      ]
+    },
+    {
+      "entity_id": "pers_jerome_powell",
+      "name": "jerome powell",
+      "aliases": [
+        "powell"
+      ],
+      "descriptors": [
+        "chair of federal reserve",
+        "fed chairman"
+      ]
+    },
+    {
+      "entity_id": "pers_kazuo_ueda",
+      "name": "kazuo ueda",
+      "aliases": [
+        "ueda"
+      ],
+      "descriptors": [
+        "governor of bank of japan",
+        "boj governor"
+      ]
+    },
+    {
+      "entity_id": "pers_kristalina_georgieva",
+      "name": "kristalina georgieva",
+      "aliases": [
+        "georgieva"
+      ],
+      "descriptors": [
+        "managing director of international monetary fund",
+        "imf md"
+      ]
+    },
+    {
+      "entity_id": "pers_ngozi_okonjo_iweala",
+      "name": "ngozi okonjo-iweala",
+      "aliases": [
+        "wto chief",
+        "okonjo-iweala"
+      ],
+      "descriptors": [
+        "director-general of world trade organization"
+      ]
+    },
+    {
+      "entity_id": "pers_mohammed_al_jadaan",
+      "name": "mohammed al-jadaan",
+      "aliases": [
+        "al-jadaan"
+      ],
+      "descriptors": [
+        "finance minister of saudi arabia",
+        "saudi finance minister"
+      ]
+    },
+    {
+      "entity_id": "pers_janet_yellen",
+      "name": "janet yellen",
+      "aliases": [
+        "yellen"
+      ],
+      "descriptors": [
+        "us treasury secretary",
+        "treasury secretary"
+      ]
+    },
+    {
+      "entity_id": "pers_mohamed_el_erian",
+      "name": "mohamed el-erian",
+      "aliases": [
+        "el-erian"
+      ],
+      "descriptors": [
+        "chief economic advisor/policy commentator"
+      ]
+    },
+    {
+      "entity_id": "pers_lawrence_summers",
+      "name": "lawrence summers",
+      "aliases": [],
+      "descriptors": [
+        "former us treasury secretary",
+        "economist summers"
+      ]
+    },
+    {
+      "entity_id": "pers_larry_fink",
+      "name": "larry fink",
+      "aliases": [
+        "fink"
+      ],
+      "descriptors": [
+        "ceo of blackrock",
+        "blackrock ceo"
+      ]
+    },
+    {
+      "entity_id": "pers_cyril_ramaphosa",
+      "name": "cyril ramaphosa",
+      "aliases": [
+        "ramaphosa"
+      ],
+      "descriptors": [
+        "president of south africa",
+        "south african president"
+      ]
+    },
+    {
+      "entity_id": "pers_recep_tayyip_erdo_an",
+      "name": "recep tayyip erdoÄŸan",
+      "aliases": [
+        "erdoÄŸan"
+      ],
+      "descriptors": [
+        "president of turkey",
+        "turkish president"
+      ]
+    },
+    {
+      "entity_id": "pers_lee_jae_myung",
+      "name": "lee jae-myung",
+      "aliases": [
+        "lee jae-myung"
+      ],
+      "descriptors": [
+        "president of south korea",
+        "south korean president"
+      ]
+    },
+    {
+      "entity_id": "pers_sanae_takaichi",
+      "name": "sanae takaichi",
+      "aliases": [
+        "japanese pm",
+        "takaichi"
+      ],
+      "descriptors": [
+        "prime minister of japan"
+      ]
+    },
+    {
+      "entity_id": "pers_claudia_sheinbaum",
+      "name": "claudia sheinbaum",
+      "aliases": [
+        "sheinbaum"
+      ],
+      "descriptors": [
+        "president of mexico",
+        "mexican president"
+      ]
+    },
+    {
+      "entity_id": "pers_alexis_tsipras",
+      "name": "alexis tsipras",
+      "aliases": [
+        "greek pm",
+        "tsipras"
+      ],
+      "descriptors": [
+        "former prime minister of greece"
+      ]
+    },
+    {
+      "entity_id": "pers_yair_lapid",
+      "name": "yair lapid",
+      "aliases": [
+        "israeli pm",
+        "lapid"
+      ],
+      "descriptors": [
+        "prime minister of israel"
+      ]
+    },
+    {
+      "entity_id": "pers_javier_milei",
+      "name": "javier milei",
+      "aliases": [
+        "milei"
+      ],
+      "descriptors": [
+        "president of argentina",
+        "argentinian president"
+      ]
+    },
+    {
+      "entity_id": "pers_mark_carney",
+      "name": "mark carney",
+      "aliases": [
+        "canadian pm",
+        "carney"
+      ],
+      "descriptors": [
+        "prime minister of canada"
+      ]
+    },
+    {
+      "entity_id": "pers_antonio_costa",
+      "name": "antonio costa",
+      "aliases": [
+        "portuguese pm",
+        "costa"
+      ],
+      "descriptors": [
+        "prime minister of portugal"
+      ]
+    },
+    {
+      "entity_id": "pers_keith_ellison",
+      "name": "keith ellison",
+      "aliases": [
+        "us politician",
+        "ellison"
+      ],
+      "descriptors": [
+        "attorney general of minnesota"
+      ]
+    }
+  ]
+}

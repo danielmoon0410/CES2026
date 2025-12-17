@@ -1,0 +1,3310 @@
+{
+  "assets": [
+    {
+      "asset_id": "asset_aapl",
+      "symbol": "AAPL",
+      "name": "apple",
+      "keywords": [
+        "iphone",
+        "macbook",
+        "ipad",
+        "tim cook"
+      ]
+    },
+    {
+      "asset_id": "asset_msft",
+      "symbol": "MSFT",
+      "name": "microsoft",
+      "keywords": [
+        "windows",
+        "azure",
+        "office",
+        "satya nadella"
+      ]
+    },
+    {
+      "asset_id": "asset_googl",
+      "symbol": "GOOGL",
+      "name": "google",
+      "keywords": [
+        "alphabet",
+        "youtube",
+        "sundar pichai"
+      ]
+    },
+    {
+      "asset_id": "asset_amzn",
+      "symbol": "AMZN",
+      "name": "amazon",
+      "keywords": [
+        "aws",
+        "bezos",
+        "prime"
+      ]
+    },
+    {
+      "asset_id": "asset_meta",
+      "symbol": "META",
+      "name": "meta platforms",
+      "keywords": [
+        "facebook",
+        "instagram",
+        "whatsapp",
+        "zuckerberg"
+      ]
+    },
+    {
+      "asset_id": "asset_nvda",
+      "symbol": "NVDA",
+      "name": "nvidia",
+      "keywords": [
+        "gpu",
+        "h100",
+        "a100",
+        "blackwell",
+        "jensen huang"
+      ]
+    },
+    {
+      "asset_id": "asset_amd",
+      "symbol": "AMD",
+      "name": "advanced micro devices",
+      "keywords": [
+        "ryzen",
+        "radeon",
+        "lisa su"
+      ]
+    },
+    {
+      "asset_id": "asset_tsla",
+      "symbol": "TSLA",
+      "name": "tesla",
+      "keywords": [
+        "spacex",
+        "elon musk",
+        "ev",
+        "battery"
+      ]
+    },
+    {
+      "asset_id": "asset_intc",
+      "symbol": "INTC",
+      "name": "intel",
+      "keywords": [
+        "processor",
+        "cpu",
+        "chip",
+        "gelsinger"
+      ]
+    },
+    {
+      "asset_id": "asset_asml",
+      "symbol": "ASML",
+      "name": "asml holding",
+      "keywords": [
+        "lithography",
+        "euv"
+      ]
+    },
+    {
+      "asset_id": "asset_avgo",
+      "symbol": "AVGO",
+      "name": "broadcom",
+      "keywords": [
+        "semiconductor",
+        "wifi",
+        "chip",
+        "networking"
+      ]
+    },
+    {
+      "asset_id": "asset_txn",
+      "symbol": "TXN",
+      "name": "texas instruments",
+      "keywords": [
+        "analog",
+        "mixed signal"
+      ]
+    },
+    {
+      "asset_id": "asset_qcom",
+      "symbol": "QCOM",
+      "name": "qualcomm",
+      "keywords": [
+        "modem",
+        "snapdragon",
+        "mobile chip"
+      ]
+    },
+    {
+      "asset_id": "asset_mu",
+      "symbol": "MU",
+      "name": "micron technology",
+      "keywords": [
+        "dram",
+        "nand",
+        "memory"
+      ]
+    },
+    {
+      "asset_id": "asset_adi",
+      "symbol": "ADI",
+      "name": "analog devices",
+      "keywords": [
+        "mixed signal",
+        "sensor"
+      ]
+    },
+    {
+      "asset_id": "asset_nxpi",
+      "symbol": "NXPI",
+      "name": "nxp semiconductors",
+      "keywords": [
+        "automotive chip"
+      ]
+    },
+    {
+      "asset_id": "asset_lrcx",
+      "symbol": "LRCX",
+      "name": "lam research",
+      "keywords": [
+        "wafer fab",
+        "deposition"
+      ]
+    },
+    {
+      "asset_id": "asset_klac",
+      "symbol": "KLAC",
+      "name": "kla corporation",
+      "keywords": [
+        "semiconductor inspection",
+        "metrology"
+      ]
+    },
+    {
+      "asset_id": "asset_amkr",
+      "symbol": "AMKR",
+      "name": "amkor technology",
+      "keywords": [
+        "packaging",
+        "test"
+      ]
+    },
+    {
+      "asset_id": "asset_swks",
+      "symbol": "SWKS",
+      "name": "skyworks solutions",
+      "keywords": [
+        "rf",
+        "connectivity"
+      ]
+    },
+    {
+      "asset_id": "asset_mrvl",
+      "symbol": "MRVL",
+      "name": "marvell technology",
+      "keywords": [
+        "networking",
+        "storage",
+        "chip"
+      ]
+    },
+    {
+      "asset_id": "asset_wdc",
+      "symbol": "WDC",
+      "name": "western digital",
+      "keywords": [
+        "hdd",
+        "ssd",
+        "storage"
+      ]
+    },
+    {
+      "asset_id": "asset_stx",
+      "symbol": "STX",
+      "name": "seagate technology",
+      "keywords": [
+        "hdd",
+        "data storage"
+      ]
+    },
+    {
+      "asset_id": "asset_snps",
+      "symbol": "SNPS",
+      "name": "synopsys",
+      "keywords": [
+        "eda software",
+        "verification"
+      ]
+    },
+    {
+      "asset_id": "asset_cdns",
+      "symbol": "CDNS",
+      "name": "cadence design systems",
+      "keywords": [
+        "eda",
+        "simulation"
+      ]
+    },
+    {
+      "asset_id": "asset_crm",
+      "symbol": "CRM",
+      "name": "salesforce",
+      "keywords": [
+        "cloud",
+        "saas",
+        "customer relationship"
+      ]
+    },
+    {
+      "asset_id": "asset_adbe",
+      "symbol": "ADBE",
+      "name": "adobe",
+      "keywords": [
+        "photoshop",
+        "creative cloud",
+        "pdf"
+      ]
+    },
+    {
+      "asset_id": "asset_orcl",
+      "symbol": "ORCL",
+      "name": "oracle",
+      "keywords": [
+        "database",
+        "cloud",
+        "enterprise"
+      ]
+    },
+    {
+      "asset_id": "asset_ibm",
+      "symbol": "IBM",
+      "name": "watson",
+      "keywords": [
+        "ai",
+        "hybrid cloud"
+      ]
+    },
+    {
+      "asset_id": "asset_intu",
+      "symbol": "INTU",
+      "name": "intuit",
+      "keywords": [
+        "turbotax",
+        "quickbooks",
+        "fintech"
+      ]
+    },
+    {
+      "asset_id": "asset_sap",
+      "symbol": "SAP",
+      "name": "sap se",
+      "keywords": [
+        "erp",
+        "enterprise software",
+        "germany"
+      ]
+    },
+    {
+      "asset_id": "asset_now",
+      "symbol": "NOW",
+      "name": "servicenow",
+      "keywords": [
+        "workflow automation",
+        "saas"
+      ]
+    },
+    {
+      "asset_id": "asset_team",
+      "symbol": "TEAM",
+      "name": "atlassian",
+      "keywords": [
+        "jira",
+        "confluence",
+        "devtools"
+      ]
+    },
+    {
+      "asset_id": "asset_docu",
+      "symbol": "DOCU",
+      "name": "docusign",
+      "keywords": [
+        "e-signature",
+        "saas"
+      ]
+    },
+    {
+      "asset_id": "asset_panw",
+      "symbol": "PANW",
+      "name": "palo alto networks",
+      "keywords": [
+        "cybersecurity",
+        "firewall"
+      ]
+    },
+    {
+      "asset_id": "asset_ftnt",
+      "symbol": "FTNT",
+      "name": "fortinet",
+      "keywords": [
+        "cybersecurity",
+        "network security"
+      ]
+    },
+    {
+      "asset_id": "asset_okta",
+      "symbol": "OKTA",
+      "name": "identity management",
+      "keywords": [
+        "security"
+      ]
+    },
+    {
+      "asset_id": "asset_crwd",
+      "symbol": "CRWD",
+      "name": "crowdstrike",
+      "keywords": [
+        "endpoint protection",
+        "falcon"
+      ]
+    },
+    {
+      "asset_id": "asset_zs",
+      "symbol": "ZS",
+      "name": "zscaler",
+      "keywords": [
+        "zero trust security"
+      ]
+    },
+    {
+      "asset_id": "asset_net",
+      "symbol": "NET",
+      "name": "cloudflare",
+      "keywords": [
+        "cdn",
+        "dns",
+        "web security"
+      ]
+    },
+    {
+      "asset_id": "asset_snow",
+      "symbol": "SNOW",
+      "name": "snowflake",
+      "keywords": [
+        "data warehouse",
+        "cloud analytics"
+      ]
+    },
+    {
+      "asset_id": "asset_mdb",
+      "symbol": "MDB",
+      "name": "mongodb",
+      "keywords": [
+        "database",
+        "atlas"
+      ]
+    },
+    {
+      "asset_id": "asset_ddog",
+      "symbol": "DDOG",
+      "name": "datadog",
+      "keywords": [
+        "monitoring",
+        "observability"
+      ]
+    },
+    {
+      "asset_id": "asset_shop",
+      "symbol": "SHOP",
+      "name": "shopify",
+      "keywords": [
+        "ecommerce",
+        "canada"
+      ]
+    },
+    {
+      "asset_id": "asset_sq",
+      "symbol": "SQ",
+      "name": "block",
+      "keywords": [
+        "cash app",
+        "jack dorsey",
+        "fintech"
+      ]
+    },
+    {
+      "asset_id": "asset_pypl",
+      "symbol": "PYPL",
+      "name": "paypal",
+      "keywords": [
+        "online payment",
+        "fintech"
+      ]
+    },
+    {
+      "asset_id": "asset_afrm",
+      "symbol": "AFRM",
+      "name": "affirm",
+      "keywords": [
+        "buy now pay later",
+        "fintech"
+      ]
+    },
+    {
+      "asset_id": "asset_coin",
+      "symbol": "COIN",
+      "name": "coinbase",
+      "keywords": [
+        "crypto exchange",
+        "bitcoin"
+      ]
+    },
+    {
+      "asset_id": "asset_hood",
+      "symbol": "HOOD",
+      "name": "brokerage",
+      "keywords": [
+        "trading app"
+      ]
+    },
+    {
+      "asset_id": "asset_pltr",
+      "symbol": "PLTR",
+      "name": "data analytics",
+      "keywords": [
+        "ai",
+        "defense"
+      ]
+    },
+    {
+      "asset_id": "asset_u",
+      "symbol": "U",
+      "name": "unity software",
+      "keywords": [
+        "game engine",
+        "vr",
+        "ar"
+      ]
+    },
+    {
+      "asset_id": "asset_jpm",
+      "symbol": "JPM",
+      "name": "jpmorgan chase",
+      "keywords": [
+        "bank",
+        "dimon"
+      ]
+    },
+    {
+      "asset_id": "asset_bac",
+      "symbol": "BAC",
+      "name": "bank of america",
+      "keywords": [
+        "bofa",
+        "banking"
+      ]
+    },
+    {
+      "asset_id": "asset_gs",
+      "symbol": "GS",
+      "name": "goldman sachs",
+      "keywords": [
+        "investment bank",
+        "trading"
+      ]
+    },
+    {
+      "asset_id": "asset_c",
+      "symbol": "C",
+      "name": "citigroup",
+      "keywords": [
+        "citibank",
+        "finance"
+      ]
+    },
+    {
+      "asset_id": "asset_ms",
+      "symbol": "MS",
+      "name": "morgan stanley",
+      "keywords": [
+        "wealth management",
+        "trading"
+      ]
+    },
+    {
+      "asset_id": "asset_blk",
+      "symbol": "BLK",
+      "name": "blackrock",
+      "keywords": [
+        "asset management",
+        "larry fink"
+      ]
+    },
+    {
+      "asset_id": "asset_trow",
+      "symbol": "TROW",
+      "name": "t rowe price",
+      "keywords": [
+        "mutual funds",
+        "investment"
+      ]
+    },
+    {
+      "asset_id": "asset_schw",
+      "symbol": "SCHW",
+      "name": "charles schwab",
+      "keywords": [
+        "brokerage",
+        "trading"
+      ]
+    },
+    {
+      "asset_id": "asset_v",
+      "symbol": "V",
+      "name": "visa",
+      "keywords": [
+        "payments",
+        "credit card",
+        "fintech"
+      ]
+    },
+    {
+      "asset_id": "asset_ma",
+      "symbol": "MA",
+      "name": "mastercard",
+      "keywords": [
+        "payments",
+        "card network"
+      ]
+    },
+    {
+      "asset_id": "asset_axp",
+      "symbol": "AXP",
+      "name": "american express",
+      "keywords": [
+        "amex",
+        "credit card"
+      ]
+    },
+    {
+      "asset_id": "asset_brk_a",
+      "symbol": "BRK.A",
+      "name": "berkshire hathaway",
+      "keywords": [
+        "warren buffett",
+        "insurance"
+      ]
+    },
+    {
+      "asset_id": "asset_brk_b",
+      "symbol": "BRK.B",
+      "name": "berkshire hathaway class b",
+      "keywords": [
+        "buffett",
+        "value stock"
+      ]
+    },
+    {
+      "asset_id": "asset_ally",
+      "symbol": "ALLY",
+      "name": "ally financial",
+      "keywords": [
+        "auto loans",
+        "bank"
+      ]
+    },
+    {
+      "asset_id": "asset_sofi",
+      "symbol": "SOFI",
+      "name": "sofi technologies",
+      "keywords": [
+        "fintech",
+        "student loans"
+      ]
+    },
+    {
+      "asset_id": "asset_afg",
+      "symbol": "AFG",
+      "name": "american financial group",
+      "keywords": [
+        "insurance"
+      ]
+    },
+    {
+      "asset_id": "asset_pnc",
+      "symbol": "PNC",
+      "name": "pnc financial",
+      "keywords": [
+        "regional bank"
+      ]
+    },
+    {
+      "asset_id": "asset_usb",
+      "symbol": "USB",
+      "name": "u.s. bancorp",
+      "keywords": [
+        "banking"
+      ]
+    },
+    {
+      "asset_id": "asset_wfc",
+      "symbol": "WFC",
+      "name": "wells fargo",
+      "keywords": [
+        "bank",
+        "mortgage"
+      ]
+    },
+    {
+      "asset_id": "asset_ry",
+      "symbol": "RY",
+      "name": "royal bank of canada",
+      "keywords": [
+        "canadian bank"
+      ]
+    },
+    {
+      "asset_id": "asset_td",
+      "symbol": "TD",
+      "name": "toronto dominion bank",
+      "keywords": [
+        "canadian bank"
+      ]
+    },
+    {
+      "asset_id": "asset_bns",
+      "symbol": "BNS",
+      "name": "bank of nova scotia",
+      "keywords": [
+        "scotiabank",
+        "canada"
+      ]
+    },
+    {
+      "asset_id": "asset_hsbc",
+      "symbol": "HSBC",
+      "name": "hsbc holdings",
+      "keywords": [
+        "british bank"
+      ]
+    },
+    {
+      "asset_id": "asset_barc",
+      "symbol": "BARC",
+      "name": "barclays",
+      "keywords": [
+        "uk bank"
+      ]
+    },
+    {
+      "asset_id": "asset_db",
+      "symbol": "DB",
+      "name": "deutsche bank",
+      "keywords": [
+        "german bank"
+      ]
+    },
+    {
+      "asset_id": "asset_ubs",
+      "symbol": "UBS",
+      "name": "ubs group",
+      "keywords": [
+        "swiss bank",
+        "wealth management"
+      ]
+    },
+    {
+      "asset_id": "asset_cs",
+      "symbol": "CS",
+      "name": "credit suisse",
+      "keywords": [
+        "swiss bank"
+      ]
+    },
+    {
+      "asset_id": "asset_icbc",
+      "symbol": "ICBC",
+      "name": "industrial and commercial bank of china",
+      "keywords": [
+        "chinese bank"
+      ]
+    },
+    {
+      "asset_id": "asset_boc",
+      "symbol": "BOC",
+      "name": "bank of china",
+      "keywords": [
+        "chinese bank"
+      ]
+    },
+    {
+      "asset_id": "asset_cnooc",
+      "symbol": "CNOOC",
+      "name": "china national offshore oil corporation",
+      "keywords": [
+        "chinese oil"
+      ]
+    },
+    {
+      "asset_id": "asset_xom",
+      "symbol": "XOM",
+      "name": "exxonmobil",
+      "keywords": [
+        "oil",
+        "energy"
+      ]
+    },
+    {
+      "asset_id": "asset_cvx",
+      "symbol": "CVX",
+      "name": "chevron",
+      "keywords": [
+        "oil",
+        "gas"
+      ]
+    },
+    {
+      "asset_id": "asset_cop",
+      "symbol": "COP",
+      "name": "conocophillips",
+      "keywords": [
+        "energy",
+        "oil"
+      ]
+    },
+    {
+      "asset_id": "asset_oxy",
+      "symbol": "OXY",
+      "name": "occidental petroleum",
+      "keywords": [
+        "oil",
+        "warren buffett stake"
+      ]
+    },
+    {
+      "asset_id": "asset_slb",
+      "symbol": "SLB",
+      "name": "schlumberger",
+      "keywords": [
+        "oilfield services",
+        "drilling"
+      ]
+    },
+    {
+      "asset_id": "asset_hal",
+      "symbol": "HAL",
+      "name": "halliburton",
+      "keywords": [
+        "oilfield services"
+      ]
+    },
+    {
+      "asset_id": "asset_bp",
+      "symbol": "BP",
+      "name": "bp plc",
+      "keywords": [
+        "british petroleum",
+        "energy"
+      ]
+    },
+    {
+      "asset_id": "asset_shel",
+      "symbol": "SHEL",
+      "name": "shell plc",
+      "keywords": [
+        "royal dutch shell",
+        "energy"
+      ]
+    },
+    {
+      "asset_id": "asset_tot",
+      "symbol": "TOT",
+      "name": "totalenergies",
+      "keywords": [
+        "french oil",
+        "energy"
+      ]
+    },
+    {
+      "asset_id": "asset_enb",
+      "symbol": "ENB",
+      "name": "enbridge",
+      "keywords": [
+        "pipeline",
+        "canada"
+      ]
+    },
+    {
+      "asset_id": "asset_kmi",
+      "symbol": "KMI",
+      "name": "kinder morgan",
+      "keywords": [
+        "pipeline",
+        "transport"
+      ]
+    },
+    {
+      "asset_id": "asset_psx",
+      "symbol": "PSX",
+      "name": "phillips 66",
+      "keywords": [
+        "refinery",
+        "energy"
+      ]
+    },
+    {
+      "asset_id": "asset_vlo",
+      "symbol": "VLO",
+      "name": "valero energy",
+      "keywords": [
+        "refinery",
+        "fuel"
+      ]
+    },
+    {
+      "asset_id": "asset_dv",
+      "symbol": "DV",
+      "name": "devon energy",
+      "keywords": [
+        "shale",
+        "oil"
+      ]
+    },
+    {
+      "asset_id": "asset_mro",
+      "symbol": "MRO",
+      "name": "marathon oil",
+      "keywords": [
+        "oil",
+        "exploration"
+      ]
+    },
+    {
+      "asset_id": "asset_eqt",
+      "symbol": "EQT",
+      "name": "eqt corporation",
+      "keywords": [
+        "natural gas"
+      ]
+    },
+    {
+      "asset_id": "asset_lng",
+      "symbol": "LNG",
+      "name": "cheniere energy",
+      "keywords": [
+        "lng export",
+        "gas"
+      ]
+    },
+    {
+      "asset_id": "asset_nee",
+      "symbol": "NEE",
+      "name": "nextEra energy",
+      "keywords": [
+        "renewables",
+        "utility"
+      ]
+    },
+    {
+      "asset_id": "asset_duk",
+      "symbol": "DUK",
+      "name": "duke energy",
+      "keywords": [
+        "electricity",
+        "power"
+      ]
+    },
+    {
+      "asset_id": "asset_so",
+      "symbol": "SO",
+      "name": "southern company",
+      "keywords": [
+        "utility",
+        "power"
+      ]
+    },
+    {
+      "asset_id": "asset_pcg",
+      "symbol": "PCG",
+      "name": "pg&e",
+      "keywords": [
+        "utility",
+        "california"
+      ]
+    },
+    {
+      "asset_id": "asset_cat",
+      "symbol": "CAT",
+      "name": "caterpillar",
+      "keywords": [
+        "construction equipment",
+        "heavy machinery"
+      ]
+    },
+    {
+      "asset_id": "asset_de",
+      "symbol": "DE",
+      "name": "deere & company",
+      "keywords": [
+        "john deere",
+        "agriculture equipment"
+      ]
+    },
+    {
+      "asset_id": "asset_mmm",
+      "symbol": "MMM",
+      "name": "3m company",
+      "keywords": [
+        "industrial",
+        "adhesives",
+        "materials"
+      ]
+    },
+    {
+      "asset_id": "asset_hon",
+      "symbol": "HON",
+      "name": "honeywell",
+      "keywords": [
+        "automation",
+        "aerospace",
+        "industrial"
+      ]
+    },
+    {
+      "asset_id": "asset_ge",
+      "symbol": "GE",
+      "name": "general electric",
+      "keywords": [
+        "aviation",
+        "power",
+        "industrial"
+      ]
+    },
+    {
+      "asset_id": "asset_emr",
+      "symbol": "EMR",
+      "name": "emerson electric",
+      "keywords": [
+        "automation",
+        "controls"
+      ]
+    },
+    {
+      "asset_id": "asset_etn",
+      "symbol": "ETN",
+      "name": "eaton corporation",
+      "keywords": [
+        "electrical systems",
+        "power management"
+      ]
+    },
+    {
+      "asset_id": "asset_rok",
+      "symbol": "ROK",
+      "name": "rockwell automation",
+      "keywords": [
+        "factory automation"
+      ]
+    },
+    {
+      "asset_id": "asset_si",
+      "symbol": "SI",
+      "name": "siemens",
+      "keywords": [
+        "german industrial",
+        "automation"
+      ]
+    },
+    {
+      "asset_id": "asset_abb",
+      "symbol": "ABB",
+      "name": "abb ltd",
+      "keywords": [
+        "robotics",
+        "industrial"
+      ]
+    },
+    {
+      "asset_id": "asset_baba",
+      "symbol": "BABA",
+      "name": "alibaba",
+      "keywords": [
+        "china ecommerce",
+        "cloud"
+      ]
+    },
+    {
+      "asset_id": "asset_pdd",
+      "symbol": "PDD",
+      "name": "pinduoduo",
+      "keywords": [
+        "temut",
+        "china retail"
+      ]
+    },
+    {
+      "asset_id": "asset_bidu",
+      "symbol": "BIDU",
+      "name": "baidu",
+      "keywords": [
+        "china ai",
+        "search engine"
+      ]
+    },
+    {
+      "asset_id": "asset_tcehy",
+      "symbol": "TCEHY",
+      "name": "tencent holdings",
+      "keywords": [
+        "wechat",
+        "china tech"
+      ]
+    },
+    {
+      "asset_id": "asset_nke",
+      "symbol": "NKE",
+      "name": "nike",
+      "keywords": [
+        "apparel",
+        "footwear",
+        "sportswear"
+      ]
+    },
+    {
+      "asset_id": "asset_addyy",
+      "symbol": "ADDYY",
+      "name": "adidas",
+      "keywords": [
+        "sports apparel",
+        "footwear"
+      ]
+    },
+    {
+      "asset_id": "asset_lvmuy",
+      "symbol": "LVMUY",
+      "name": "lvmh",
+      "keywords": [
+        "luxury goods",
+        "louis vuitton",
+        "fashion"
+      ]
+    },
+    {
+      "asset_id": "asset_rl",
+      "symbol": "RL",
+      "name": "ralph lauren",
+      "keywords": [
+        "apparel",
+        "luxury"
+      ]
+    },
+    {
+      "asset_id": "asset_tpr",
+      "symbol": "TPR",
+      "name": "tapestry",
+      "keywords": [
+        "coach",
+        "kate spade",
+        "fashion"
+      ]
+    },
+    {
+      "asset_id": "asset_gucci",
+      "symbol": "GUCCI",
+      "name": "ker.pa",
+      "keywords": [
+        "luxury"
+      ]
+    },
+    {
+      "asset_id": "asset_pg",
+      "symbol": "PG",
+      "name": "procter & gamble",
+      "keywords": [
+        "consumer goods",
+        "household"
+      ]
+    },
+    {
+      "asset_id": "asset_ko",
+      "symbol": "KO",
+      "name": "coca cola",
+      "keywords": [
+        "beverage",
+        "soda",
+        "soft drink"
+      ]
+    },
+    {
+      "asset_id": "asset_pep",
+      "symbol": "PEP",
+      "name": "pepsico",
+      "keywords": [
+        "snack",
+        "beverage"
+      ]
+    },
+    {
+      "asset_id": "asset_ul",
+      "symbol": "UL",
+      "name": "unilever",
+      "keywords": [
+        "consumer goods",
+        "hygiene"
+      ]
+    },
+    {
+      "asset_id": "asset_cl",
+      "symbol": "CL",
+      "name": "colgate palmolive",
+      "keywords": [
+        "toothpaste",
+        "consumer staples"
+      ]
+    },
+    {
+      "asset_id": "asset_kim",
+      "symbol": "KIM",
+      "name": "kimberly clark",
+      "keywords": [
+        "paper goods",
+        "hygiene"
+      ]
+    },
+    {
+      "asset_id": "asset_mdlz",
+      "symbol": "MDLZ",
+      "name": "mondelez",
+      "keywords": [
+        "snacks",
+        "oreo",
+        "cadbury"
+      ]
+    },
+    {
+      "asset_id": "asset_khc",
+      "symbol": "KHC",
+      "name": "kraft heinz",
+      "keywords": [
+        "food",
+        "ketchup"
+      ]
+    },
+    {
+      "asset_id": "asset_gis",
+      "symbol": "GIS",
+      "name": "general mills",
+      "keywords": [
+        "cereal",
+        "food"
+      ]
+    },
+    {
+      "asset_id": "asset_cpb",
+      "symbol": "CPB",
+      "name": "campbell soup",
+      "keywords": [
+        "canned food"
+      ]
+    },
+    {
+      "asset_id": "asset_k",
+      "symbol": "K",
+      "name": "kellogg",
+      "keywords": [
+        "cereal",
+        "breakfast foods"
+      ]
+    },
+    {
+      "asset_id": "asset_mcd",
+      "symbol": "MCD",
+      "name": "mcdonaldâ€TMs",
+      "keywords": [
+        "fast food",
+        "restaurant"
+      ]
+    },
+    {
+      "asset_id": "asset_yumi",
+      "symbol": "YUMI",
+      "name": "yum brands",
+      "keywords": [
+        "kfc",
+        "taco bell",
+        "pizza hut"
+      ]
+    },
+    {
+      "asset_id": "asset_sbux",
+      "symbol": "SBUX",
+      "name": "starbucks",
+      "keywords": [
+        "coffee",
+        "cafe"
+      ]
+    },
+    {
+      "asset_id": "asset_cmg",
+      "symbol": "CMG",
+      "name": "chipotle mexican grill",
+      "keywords": [
+        "restaurant",
+        "burrito"
+      ]
+    },
+    {
+      "asset_id": "asset_dom",
+      "symbol": "DOM",
+      "name": "dominoâ€TMs pizza",
+      "keywords": [
+        "restaurant",
+        "pizza"
+      ]
+    },
+    {
+      "asset_id": "asset_tsco",
+      "symbol": "TSCO",
+      "name": "tractor supply",
+      "keywords": [
+        "retail",
+        "farming"
+      ]
+    },
+    {
+      "asset_id": "asset_hd",
+      "symbol": "HD",
+      "name": "home depot",
+      "keywords": [
+        "hardware",
+        "retail"
+      ]
+    },
+    {
+      "asset_id": "asset_low",
+      "symbol": "LOW",
+      "name": "loweâ€TMs",
+      "keywords": [
+        "hardware",
+        "retail"
+      ]
+    },
+    {
+      "asset_id": "asset_tgt",
+      "symbol": "TGT",
+      "name": "target",
+      "keywords": [
+        "retail",
+        "supermarket"
+      ]
+    },
+    {
+      "asset_id": "asset_wmt",
+      "symbol": "WMT",
+      "name": "walmart",
+      "keywords": [
+        "retail",
+        "supermarket"
+      ]
+    },
+    {
+      "asset_id": "asset_cost",
+      "symbol": "COST",
+      "name": "costco",
+      "keywords": [
+        "warehouse retail",
+        "bulk shopping"
+      ]
+    },
+    {
+      "asset_id": "asset_fdx",
+      "symbol": "FDX",
+      "name": "fedex",
+      "keywords": [
+        "logistics",
+        "delivery",
+        "shipping"
+      ]
+    },
+    {
+      "asset_id": "asset_ups",
+      "symbol": "UPS",
+      "name": "united parcel service",
+      "keywords": [
+        "delivery",
+        "logistics"
+      ]
+    },
+    {
+      "asset_id": "asset_dal",
+      "symbol": "DAL",
+      "name": "delta airlines",
+      "keywords": [
+        "aviation",
+        "flight"
+      ]
+    },
+    {
+      "asset_id": "asset_ual",
+      "symbol": "UAL",
+      "name": "united airlines",
+      "keywords": [
+        "aviation",
+        "flight"
+      ]
+    },
+    {
+      "asset_id": "asset_aal",
+      "symbol": "AAL",
+      "name": "american airlines",
+      "keywords": [
+        "aviation",
+        "flight"
+      ]
+    },
+    {
+      "asset_id": "asset_luv",
+      "symbol": "LUV",
+      "name": "southwest airlines",
+      "keywords": [
+        "low-cost carrier"
+      ]
+    },
+    {
+      "asset_id": "asset_ba",
+      "symbol": "BA",
+      "name": "boeing",
+      "keywords": [
+        "aircraft",
+        "aerospace"
+      ]
+    },
+    {
+      "asset_id": "asset_air",
+      "symbol": "AIR",
+      "name": "airbus",
+      "keywords": [
+        "aircraft",
+        "aerospace"
+      ]
+    },
+    {
+      "asset_id": "asset_jnj",
+      "symbol": "JNJ",
+      "name": "johnson & johnson",
+      "keywords": [
+        "healthcare",
+        "pharmaceutical",
+        "consumer health"
+      ]
+    },
+    {
+      "asset_id": "asset_pfe",
+      "symbol": "PFE",
+      "name": "pfizer",
+      "keywords": [
+        "vaccine",
+        "pharma",
+        "covid vaccine"
+      ]
+    },
+    {
+      "asset_id": "asset_mrna",
+      "symbol": "MRNA",
+      "name": "moderna",
+      "keywords": [
+        "biotech",
+        "vaccine",
+        "covid"
+      ]
+    },
+    {
+      "asset_id": "asset_bntx",
+      "symbol": "BNTX",
+      "name": "biontech",
+      "keywords": [
+        "biotech",
+        "vaccine",
+        "germany"
+      ]
+    },
+    {
+      "asset_id": "asset_azn",
+      "symbol": "AZN",
+      "name": "astrazeneca",
+      "keywords": [
+        "pharmaceutical",
+        "vaccine",
+        "uk"
+      ]
+    },
+    {
+      "asset_id": "asset_gsk",
+      "symbol": "GSK",
+      "name": "glaxosmithkline",
+      "keywords": [
+        "pharmaceutical",
+        "vaccine"
+      ]
+    },
+    {
+      "asset_id": "asset_san",
+      "symbol": "SAN",
+      "name": "sanofi",
+      "keywords": [
+        "france",
+        "pharmaceutical"
+      ]
+    },
+    {
+      "asset_id": "asset_nvs",
+      "symbol": "NVS",
+      "name": "novartis",
+      "keywords": [
+        "pharmaceutical",
+        "switzerland"
+      ]
+    },
+    {
+      "asset_id": "asset_rhhby",
+      "symbol": "RHHBY",
+      "name": "roche holdings",
+      "keywords": [
+        "diagnostics",
+        "pharma",
+        "biotech"
+      ]
+    },
+    {
+      "asset_id": "asset_abbv",
+      "symbol": "ABBV",
+      "name": "abbvie",
+      "keywords": [
+        "immunology",
+        "pharma",
+        "humira"
+      ]
+    },
+    {
+      "asset_id": "asset_amgn",
+      "symbol": "AMGN",
+      "name": "amgen",
+      "keywords": [
+        "biotech",
+        "therapeutics"
+      ]
+    },
+    {
+      "asset_id": "asset_biib",
+      "symbol": "BIIB",
+      "name": "biogen",
+      "keywords": [
+        "biotech",
+        "neuroscience"
+      ]
+    },
+    {
+      "asset_id": "asset_regn",
+      "symbol": "REGN",
+      "name": "regeneron",
+      "keywords": [
+        "biotech",
+        "pharmaceuticals"
+      ]
+    },
+    {
+      "asset_id": "asset_vrtx",
+      "symbol": "VRTX",
+      "name": "vertex pharmaceuticals",
+      "keywords": [
+        "biotech",
+        "cystic fibrosis"
+      ]
+    },
+    {
+      "asset_id": "asset_ilmn",
+      "symbol": "ILMN",
+      "name": "illumina",
+      "keywords": [
+        "dna sequencing",
+        "genomics"
+      ]
+    },
+    {
+      "asset_id": "asset_tdoc",
+      "symbol": "TDOC",
+      "name": "teladoc health",
+      "keywords": [
+        "telemedicine",
+        "virtual care"
+      ]
+    },
+    {
+      "asset_id": "asset_isrg",
+      "symbol": "ISRG",
+      "name": "intuitive surgical",
+      "keywords": [
+        "robotics",
+        "da vinci system"
+      ]
+    },
+    {
+      "asset_id": "asset_zbh",
+      "symbol": "ZBH",
+      "name": "zimmer biomet",
+      "keywords": [
+        "orthopedic",
+        "implants"
+      ]
+    },
+    {
+      "asset_id": "asset_bsx",
+      "symbol": "BSX",
+      "name": "boston scientific",
+      "keywords": [
+        "medical devices",
+        "stents"
+      ]
+    },
+    {
+      "asset_id": "asset_bax",
+      "symbol": "BAX",
+      "name": "baxter international",
+      "keywords": [
+        "medical devices",
+        "healthcare"
+      ]
+    },
+    {
+      "asset_id": "asset_tmo",
+      "symbol": "TMO",
+      "name": "thermo fisher scientific",
+      "keywords": [
+        "life sciences",
+        "instruments"
+      ]
+    },
+    {
+      "asset_id": "asset_dhr",
+      "symbol": "DHR",
+      "name": "danaher",
+      "keywords": [
+        "life sciences",
+        "diagnostics"
+      ]
+    },
+    {
+      "asset_id": "asset_avtr",
+      "symbol": "AVTR",
+      "name": "avantor",
+      "keywords": [
+        "lab supplies",
+        "chemicals"
+      ]
+    },
+    {
+      "asset_id": "asset_idxx",
+      "symbol": "IDXX",
+      "name": "idexx laboratories",
+      "keywords": [
+        "diagnostics",
+        "veterinary"
+      ]
+    },
+    {
+      "asset_id": "asset_hltn",
+      "symbol": "HLTN",
+      "name": "hill-rom holdings",
+      "keywords": [
+        "medical equipment",
+        "healthcare"
+      ]
+    },
+    {
+      "asset_id": "asset_hca",
+      "symbol": "HCA",
+      "name": "hca healthcare",
+      "keywords": [
+        "hospitals",
+        "clinical services"
+      ]
+    },
+    {
+      "asset_id": "asset_uhc",
+      "symbol": "UHC",
+      "name": "unitedhealth group",
+      "keywords": [
+        "insurance",
+        "managed care",
+        "unh"
+      ]
+    },
+    {
+      "asset_id": "asset_cvs",
+      "symbol": "CVS",
+      "name": "cvs health",
+      "keywords": [
+        "pharmacy",
+        "insurance",
+        "retail"
+      ]
+    },
+    {
+      "asset_id": "asset_ci",
+      "symbol": "CI",
+      "name": "cigna group",
+      "keywords": [
+        "insurance",
+        "healthcare"
+      ]
+    },
+    {
+      "asset_id": "asset_anthem",
+      "symbol": "ANTHEM",
+      "name": "elevance health",
+      "keywords": [
+        "insurance",
+        "healthcare"
+      ]
+    },
+    {
+      "asset_id": "asset_mck",
+      "symbol": "MCK",
+      "name": "mckesson",
+      "keywords": [
+        "drug distribution",
+        "pharma"
+      ]
+    },
+    {
+      "asset_id": "asset_abc",
+      "symbol": "ABC",
+      "name": "amerisourcebergen",
+      "keywords": [
+        "drug wholesale",
+        "distribution"
+      ]
+    },
+    {
+      "asset_id": "asset_cahe",
+      "symbol": "CAHE",
+      "name": "cardinal health",
+      "keywords": [
+        "distribution",
+        "healthcare"
+      ]
+    },
+    {
+      "asset_id": "asset_ste",
+      "symbol": "STE",
+      "name": "steris",
+      "keywords": [
+        "sterilization",
+        "medical equipment"
+      ]
+    },
+    {
+      "asset_id": "asset_pen",
+      "symbol": "PEN",
+      "name": "penumbra",
+      "keywords": [
+        "medical device",
+        "vascular"
+      ]
+    },
+    {
+      "asset_id": "asset_syk",
+      "symbol": "SYK",
+      "name": "stryker",
+      "keywords": [
+        "orthopedic",
+        "medical technology"
+      ]
+    },
+    {
+      "asset_id": "asset_algn",
+      "symbol": "ALGN",
+      "name": "align technology",
+      "keywords": [
+        "invisalign",
+        "dental"
+      ]
+    },
+    {
+      "asset_id": "asset_wba",
+      "symbol": "WBA",
+      "name": "walgreens boots alliance",
+      "keywords": [
+        "pharmacy",
+        "retail"
+      ]
+    },
+    {
+      "asset_id": "asset_lh",
+      "symbol": "LH",
+      "name": "labcorp",
+      "keywords": [
+        "diagnostics",
+        "testing"
+      ]
+    },
+    {
+      "asset_id": "asset_dgx",
+      "symbol": "DGX",
+      "name": "quest diagnostics",
+      "keywords": [
+        "medical testing"
+      ]
+    },
+    {
+      "asset_id": "asset_podd",
+      "symbol": "PODD",
+      "name": "insulet",
+      "keywords": [
+        "diabetes",
+        "omnipod",
+        "medical devices"
+      ]
+    },
+    {
+      "asset_id": "asset_tndm",
+      "symbol": "TNDM",
+      "name": "tandem diabetes care",
+      "keywords": [
+        "insulin pumps"
+      ]
+    },
+    {
+      "asset_id": "asset_nvcr",
+      "symbol": "NVCR",
+      "name": "novoCure",
+      "keywords": [
+        "oncology",
+        "electric field therapy"
+      ]
+    },
+    {
+      "asset_id": "asset_nvo",
+      "symbol": "NVO",
+      "name": "novo nordisk",
+      "keywords": [
+        "insulin",
+        "obesity drug",
+        "ozempic"
+      ]
+    },
+    {
+      "asset_id": "asset_lly",
+      "symbol": "LLY",
+      "name": "eli lilly",
+      "keywords": [
+        "pharmaceuticals",
+        "tirzepatide",
+        "mounjaro"
+      ]
+    },
+    {
+      "asset_id": "asset_bmy",
+      "symbol": "BMY",
+      "name": "bristol myers squibb",
+      "keywords": [
+        "pharmaceuticals",
+        "oncology"
+      ]
+    },
+    {
+      "asset_id": "asset_gild",
+      "symbol": "GILD",
+      "name": "gilead sciences",
+      "keywords": [
+        "antivirals",
+        "biotech"
+      ]
+    },
+    {
+      "asset_id": "asset_sny",
+      "symbol": "SNY",
+      "name": "sanofi",
+      "keywords": [
+        "pharmaceuticals",
+        "vaccines"
+      ]
+    },
+    {
+      "asset_id": "asset_tak",
+      "symbol": "TAK",
+      "name": "takeda pharmaceutical",
+      "keywords": [
+        "japan",
+        "pharma"
+      ]
+    },
+    {
+      "asset_id": "asset_arvn",
+      "symbol": "ARVN",
+      "name": "arvinas",
+      "keywords": [
+        "biotech",
+        "targeted protein degradation"
+      ]
+    },
+    {
+      "asset_id": "asset_t",
+      "symbol": "T",
+      "name": "at&t",
+      "keywords": [
+        "telecom",
+        "wireless",
+        "broadband"
+      ]
+    },
+    {
+      "asset_id": "asset_vz",
+      "symbol": "VZ",
+      "name": "verizon communications",
+      "keywords": [
+        "telecom",
+        "wireless"
+      ]
+    },
+    {
+      "asset_id": "asset_tmus",
+      "symbol": "TMUS",
+      "name": "t-mobile us",
+      "keywords": [
+        "telecom",
+        "wireless"
+      ]
+    },
+    {
+      "asset_id": "asset_chtr",
+      "symbol": "CHTR",
+      "name": "charter communications",
+      "keywords": [
+        "spectrum",
+        "cable"
+      ]
+    },
+    {
+      "asset_id": "asset_cmcsa",
+      "symbol": "CMCSA",
+      "name": "comcast",
+      "keywords": [
+        "xfinity",
+        "broadband",
+        "media"
+      ]
+    },
+    {
+      "asset_id": "asset_dis",
+      "symbol": "DIS",
+      "name": "walt disney",
+      "keywords": [
+        "streaming",
+        "theme parks",
+        "entertainment"
+      ]
+    },
+    {
+      "asset_id": "asset_nflx",
+      "symbol": "NFLX",
+      "name": "netflix",
+      "keywords": [
+        "streaming",
+        "entertainment",
+        "content"
+      ]
+    },
+    {
+      "asset_id": "asset_para",
+      "symbol": "PARA",
+      "name": "paramount global",
+      "keywords": [
+        "cbs",
+        "viacom",
+        "streaming"
+      ]
+    },
+    {
+      "asset_id": "asset_wbd",
+      "symbol": "WBD",
+      "name": "warner bros discovery",
+      "keywords": [
+        "hbo",
+        "max",
+        "streaming"
+      ]
+    },
+    {
+      "asset_id": "asset_fox",
+      "symbol": "FOX",
+      "name": "fox corporation",
+      "keywords": [
+        "media",
+        "news"
+      ]
+    },
+    {
+      "asset_id": "asset_nws",
+      "symbol": "NWS",
+      "name": "news corp",
+      "keywords": [
+        "newspaper",
+        "wall street journal"
+      ]
+    },
+    {
+      "asset_id": "asset_spg",
+      "symbol": "SPG",
+      "name": "simon property group",
+      "keywords": [
+        "reit",
+        "malls",
+        "retail"
+      ]
+    },
+    {
+      "asset_id": "asset_pld",
+      "symbol": "PLD",
+      "name": "prologis",
+      "keywords": [
+        "reit",
+        "logistics",
+        "warehouse"
+      ]
+    },
+    {
+      "asset_id": "asset_eqix",
+      "symbol": "EQIX",
+      "name": "equinix",
+      "keywords": [
+        "data center",
+        "reit",
+        "interconnection"
+      ]
+    },
+    {
+      "asset_id": "asset_dlr",
+      "symbol": "DLR",
+      "name": "digital realty trust",
+      "keywords": [
+        "data center",
+        "reit"
+      ]
+    },
+    {
+      "asset_id": "asset_o",
+      "symbol": "O",
+      "name": "realty income",
+      "keywords": [
+        "reit",
+        "commercial property"
+      ]
+    },
+    {
+      "asset_id": "asset_amt",
+      "symbol": "AMT",
+      "name": "american tower",
+      "keywords": [
+        "reit",
+        "cell towers",
+        "infrastructure"
+      ]
+    },
+    {
+      "asset_id": "asset_cci",
+      "symbol": "CCI",
+      "name": "crown castle",
+      "keywords": [
+        "cell towers",
+        "reit"
+      ]
+    },
+    {
+      "asset_id": "asset_sbac",
+      "symbol": "SBAC",
+      "name": "sba communications",
+      "keywords": [
+        "tower",
+        "reit"
+      ]
+    },
+    {
+      "asset_id": "asset_avb",
+      "symbol": "AVB",
+      "name": "avalonbay communities",
+      "keywords": [
+        "reit",
+        "apartments"
+      ]
+    },
+    {
+      "asset_id": "asset_ess",
+      "symbol": "ESS",
+      "name": "essex property trust",
+      "keywords": [
+        "reit",
+        "apartments"
+      ]
+    },
+    {
+      "asset_id": "asset_epr",
+      "symbol": "EPR",
+      "name": "epr properties",
+      "keywords": [
+        "entertainment reit",
+        "theaters"
+      ]
+    },
+    {
+      "asset_id": "asset_skt",
+      "symbol": "SKT",
+      "name": "tanger factory outlet centers",
+      "keywords": [
+        "retail reit"
+      ]
+    },
+    {
+      "asset_id": "asset_xlu",
+      "symbol": "XLU",
+      "name": "utilities select sector spdr etf",
+      "keywords": [
+        "utilities index"
+      ]
+    },
+    {
+      "asset_id": "asset_xlre",
+      "symbol": "XLRE",
+      "name": "real estate select sector spdr etf",
+      "keywords": [
+        "reit index"
+      ]
+    },
+    {
+      "asset_id": "asset_nee",
+      "symbol": "NEE",
+      "name": "nextera energy",
+      "keywords": [
+        "renewable",
+        "utility"
+      ]
+    },
+    {
+      "asset_id": "asset_duke",
+      "symbol": "DUKE",
+      "name": "duke energy",
+      "keywords": [
+        "electric utility"
+      ]
+    },
+    {
+      "asset_id": "asset_so",
+      "symbol": "SO",
+      "name": "southern company",
+      "keywords": [
+        "utility",
+        "power"
+      ]
+    },
+    {
+      "asset_id": "asset_aep",
+      "symbol": "AEP",
+      "name": "american electric power",
+      "keywords": [
+        "utility",
+        "transmission"
+      ]
+    },
+    {
+      "asset_id": "asset_ed",
+      "symbol": "ED",
+      "name": "consolidated edison",
+      "keywords": [
+        "utility",
+        "new york"
+      ]
+    },
+    {
+      "asset_id": "asset_d",
+      "symbol": "D",
+      "name": "dominion energy",
+      "keywords": [
+        "gas",
+        "electricity"
+      ]
+    },
+    {
+      "asset_id": "asset_pcg",
+      "symbol": "PCG",
+      "name": "pg&e corporation",
+      "keywords": [
+        "california utility"
+      ]
+    },
+    {
+      "asset_id": "asset_exel",
+      "symbol": "EXEL",
+      "name": "exelon corporation",
+      "keywords": [
+        "utility",
+        "power generation"
+      ]
+    },
+    {
+      "asset_id": "asset_ngg",
+      "symbol": "NGG",
+      "name": "national grid",
+      "keywords": [
+        "uk utility",
+        "electricity"
+      ]
+    },
+    {
+      "asset_id": "asset_sre",
+      "symbol": "SRE",
+      "name": "sempra energy",
+      "keywords": [
+        "gas",
+        "utility"
+      ]
+    },
+    {
+      "asset_id": "asset_aes",
+      "symbol": "AES",
+      "name": "aes corporation",
+      "keywords": [
+        "power",
+        "renewable"
+      ]
+    },
+    {
+      "asset_id": "asset_fe",
+      "symbol": "FE",
+      "name": "firstenergy",
+      "keywords": [
+        "electric utility",
+        "grid"
+      ]
+    },
+    {
+      "asset_id": "asset_xln",
+      "symbol": "XLN",
+      "name": "xcel energy",
+      "keywords": [
+        "utility",
+        "renewable"
+      ]
+    },
+    {
+      "asset_id": "asset_awk",
+      "symbol": "AWK",
+      "name": "american water works",
+      "keywords": [
+        "water utility"
+      ]
+    },
+    {
+      "asset_id": "asset_wtrg",
+      "symbol": "WTRG",
+      "name": "essential utilities",
+      "keywords": [
+        "water utility"
+      ]
+    },
+    {
+      "asset_id": "asset_dte",
+      "symbol": "DTE",
+      "name": "dte energy",
+      "keywords": [
+        "gas",
+        "electricity"
+      ]
+    },
+    {
+      "asset_id": "asset_peg",
+      "symbol": "PEG",
+      "name": "public service enterprise group",
+      "keywords": [
+        "utility",
+        "new jersey"
+      ]
+    },
+    {
+      "asset_id": "asset_apa",
+      "symbol": "APA",
+      "name": "apa corporation",
+      "keywords": [
+        "apache",
+        "oil & gas"
+      ]
+    },
+    {
+      "asset_id": "asset_kkr",
+      "symbol": "KKR",
+      "name": "kkr & co",
+      "keywords": [
+        "private equity",
+        "investment firm"
+      ]
+    },
+    {
+      "asset_id": "asset_blk",
+      "symbol": "BLK",
+      "name": "blackrock",
+      "keywords": [
+        "asset management",
+        "larry fink"
+      ]
+    },
+    {
+      "asset_id": "asset_bx",
+      "symbol": "BX",
+      "name": "blackstone",
+      "keywords": [
+        "private equity",
+        "real estate"
+      ]
+    },
+    {
+      "asset_id": "asset_csgp",
+      "symbol": "CSGP",
+      "name": "costar group",
+      "keywords": [
+        "real estate data",
+        "analytics"
+      ]
+    },
+    {
+      "asset_id": "asset_z",
+      "symbol": "Z",
+      "name": "zillow group",
+      "keywords": [
+        "real estate",
+        "housing"
+      ]
+    },
+    {
+      "asset_id": "asset_rdfn",
+      "symbol": "RDFN",
+      "name": "redfin",
+      "keywords": [
+        "real estate",
+        "housing market"
+      ]
+    },
+    {
+      "asset_id": "asset_opad",
+      "symbol": "OPAD",
+      "name": "offerpad",
+      "keywords": [
+        "real estate",
+        "proptech"
+      ]
+    },
+    {
+      "asset_id": "asset_open",
+      "symbol": "OPEN",
+      "name": "opendoor technologies",
+      "keywords": [
+        "real estate",
+        "proptech"
+      ]
+    },
+    {
+      "asset_id": "asset_spy",
+      "symbol": "SPY",
+      "name": "spdr s&p 500 etf",
+      "keywords": [
+        "s&p 500 index",
+        "us market"
+      ]
+    },
+    {
+      "asset_id": "asset_voo",
+      "symbol": "VOO",
+      "name": "vanguard s&p 500 etf",
+      "keywords": [
+        "vanguard",
+        "index fund"
+      ]
+    },
+    {
+      "asset_id": "asset_ivv",
+      "symbol": "IVV",
+      "name": "ishares core s&p 500 etf",
+      "keywords": [
+        "index fund"
+      ]
+    },
+    {
+      "asset_id": "asset_vti",
+      "symbol": "VTI",
+      "name": "vanguard total stock market etf",
+      "keywords": [
+        "total market"
+      ]
+    },
+    {
+      "asset_id": "asset_iwm",
+      "symbol": "IWM",
+      "name": "ishares russell 2000 etf",
+      "keywords": [
+        "small cap index"
+      ]
+    },
+    {
+      "asset_id": "asset_qqq",
+      "symbol": "QQQ",
+      "name": "invesco qqq trust",
+      "keywords": [
+        "nasdaq 100",
+        "tech index"
+      ]
+    },
+    {
+      "asset_id": "asset_dia",
+      "symbol": "DIA",
+      "name": "spdr dow jones industrial average etf",
+      "keywords": [
+        "dow jones"
+      ]
+    },
+    {
+      "asset_id": "asset_xlk",
+      "symbol": "XLK",
+      "name": "technology select sector spdr",
+      "keywords": [
+        "tech sector"
+      ]
+    },
+    {
+      "asset_id": "asset_xlf",
+      "symbol": "XLF",
+      "name": "financial select sector spdr",
+      "keywords": [
+        "finance sector"
+      ]
+    },
+    {
+      "asset_id": "asset_xle",
+      "symbol": "XLE",
+      "name": "energy select sector spdr",
+      "keywords": [
+        "oil stocks"
+      ]
+    },
+    {
+      "asset_id": "asset_xlv",
+      "symbol": "XLV",
+      "name": "healthcare select sector spdr",
+      "keywords": [
+        "healthcare index"
+      ]
+    },
+    {
+      "asset_id": "asset_xli",
+      "symbol": "XLI",
+      "name": "industrial select sector spdr",
+      "keywords": [
+        "industry index"
+      ]
+    },
+    {
+      "asset_id": "asset_xly",
+      "symbol": "XLY",
+      "name": "consumer discretionary select sector spdr",
+      "keywords": []
+    },
+    {
+      "asset_id": "asset_xlp",
+      "symbol": "XLP",
+      "name": "consumer staples select sector spdr",
+      "keywords": []
+    },
+    {
+      "asset_id": "asset_xlu",
+      "symbol": "XLU",
+      "name": "utilities select sector spdr",
+      "keywords": [
+        "utilities index"
+      ]
+    },
+    {
+      "asset_id": "asset_xlre",
+      "symbol": "XLRE",
+      "name": "real estate select sector spdr",
+      "keywords": [
+        "reit index"
+      ]
+    },
+    {
+      "asset_id": "asset_xbi",
+      "symbol": "XBI",
+      "name": "spdr s&p biotech etf",
+      "keywords": [
+        "biotech index"
+      ]
+    },
+    {
+      "asset_id": "asset_vht",
+      "symbol": "VHT",
+      "name": "vanguard healthcare etf",
+      "keywords": [
+        "healthcare fund"
+      ]
+    },
+    {
+      "asset_id": "asset_vde",
+      "symbol": "VDE",
+      "name": "vanguard energy etf",
+      "keywords": [
+        "oil fund"
+      ]
+    },
+    {
+      "asset_id": "asset_vfh",
+      "symbol": "VFH",
+      "name": "vanguard financials etf",
+      "keywords": [
+        "finance fund"
+      ]
+    },
+    {
+      "asset_id": "asset_vea",
+      "symbol": "VEA",
+      "name": "vanguard ftse developed markets etf",
+      "keywords": [
+        "global equity"
+      ]
+    },
+    {
+      "asset_id": "asset_eem",
+      "symbol": "EEM",
+      "name": "ishares msci emerging markets etf",
+      "keywords": [
+        "emerging markets"
+      ]
+    },
+    {
+      "asset_id": "asset_acwi",
+      "symbol": "ACWI",
+      "name": "ishares msci all country world index etf",
+      "keywords": [
+        "global stocks"
+      ]
+    },
+    {
+      "asset_id": "asset_efa",
+      "symbol": "EFA",
+      "name": "ishares msci eafe etf",
+      "keywords": [
+        "developed markets"
+      ]
+    },
+    {
+      "asset_id": "asset_gld",
+      "symbol": "GLD",
+      "name": "spdr gold shares",
+      "keywords": [
+        "gold etf",
+        "bullion"
+      ]
+    },
+    {
+      "asset_id": "asset_slv",
+      "symbol": "SLV",
+      "name": "ishares silver trust",
+      "keywords": [
+        "silver etf",
+        "bullion"
+      ]
+    },
+    {
+      "asset_id": "asset_uso",
+      "symbol": "USO",
+      "name": "united states oil fund",
+      "keywords": [
+        "crude oil etf"
+      ]
+    },
+    {
+      "asset_id": "asset_ung",
+      "symbol": "UNG",
+      "name": "united states natural gas fund",
+      "keywords": [
+        "gas etf"
+      ]
+    },
+    {
+      "asset_id": "asset_dxy",
+      "symbol": "DXY",
+      "name": "us dollar index",
+      "keywords": [
+        "dollar strength",
+        "usd"
+      ]
+    },
+    {
+      "asset_id": "asset_tlt",
+      "symbol": "TLT",
+      "name": "ishares 20+ year treasury bond etf",
+      "keywords": [
+        "bonds",
+        "yield"
+      ]
+    },
+    {
+      "asset_id": "asset_shy",
+      "symbol": "SHY",
+      "name": "ishares 1-3 year treasury bond etf",
+      "keywords": [
+        "short bonds"
+      ]
+    },
+    {
+      "asset_id": "asset_agg",
+      "symbol": "AGG",
+      "name": "ishares core us aggregate bond etf",
+      "keywords": [
+        "bond index"
+      ]
+    },
+    {
+      "asset_id": "asset_bnd",
+      "symbol": "BND",
+      "name": "vanguard total bond market etf",
+      "keywords": [
+        "bond fund"
+      ]
+    },
+    {
+      "asset_id": "asset_lqd",
+      "symbol": "LQD",
+      "name": "ishares investment grade corporate bond etf",
+      "keywords": []
+    },
+    {
+      "asset_id": "asset_hyg",
+      "symbol": "HYG",
+      "name": "ishares high yield corporate bond etf",
+      "keywords": [
+        "junk bonds"
+      ]
+    },
+    {
+      "asset_id": "asset_iau",
+      "symbol": "IAU",
+      "name": "ishares gold trust",
+      "keywords": [
+        "gold etf"
+      ]
+    },
+    {
+      "asset_id": "asset_dbc",
+      "symbol": "DBC",
+      "name": "invesco db commodity index tracking fund",
+      "keywords": [
+        "commodities"
+      ]
+    },
+    {
+      "asset_id": "asset_gsg",
+      "symbol": "GSG",
+      "name": "ishares s&p gssi commodity index etf",
+      "keywords": [
+        "commodities"
+      ]
+    },
+    {
+      "asset_id": "asset_xauusd",
+      "symbol": "XAUUSD",
+      "name": "gold spot price",
+      "keywords": [
+        "gold commodity"
+      ]
+    },
+    {
+      "asset_id": "asset_xagusd",
+      "symbol": "XAGUSD",
+      "name": "silver spot price",
+      "keywords": [
+        "silver commodity"
+      ]
+    },
+    {
+      "asset_id": "asset_wti",
+      "symbol": "WTI",
+      "name": "west texas intermediate",
+      "keywords": [
+        "crude oil spot"
+      ]
+    },
+    {
+      "asset_id": "asset_brent",
+      "symbol": "BRENT",
+      "name": "brent crude oil spot",
+      "keywords": [
+        "oil benchmark"
+      ]
+    },
+    {
+      "asset_id": "asset_btc",
+      "symbol": "BTC",
+      "name": "bitcoin",
+      "keywords": [
+        "crypto",
+        "btcusd"
+      ]
+    },
+    {
+      "asset_id": "asset_eth",
+      "symbol": "ETH",
+      "name": "ethereum",
+      "keywords": [
+        "ether",
+        "crypto"
+      ]
+    },
+    {
+      "asset_id": "asset_bnb",
+      "symbol": "BNB",
+      "name": "binance coin",
+      "keywords": [
+        "crypto",
+        "bnb token"
+      ]
+    },
+    {
+      "asset_id": "asset_sol",
+      "symbol": "SOL",
+      "name": "solana",
+      "keywords": [
+        "blockchain",
+        "crypto"
+      ]
+    },
+    {
+      "asset_id": "asset_xrp",
+      "symbol": "XRP",
+      "name": "ripple",
+      "keywords": [
+        "crypto",
+        "xrp token"
+      ]
+    },
+    {
+      "asset_id": "asset_ada",
+      "symbol": "ADA",
+      "name": "cardano",
+      "keywords": [
+        "blockchain",
+        "crypto"
+      ]
+    },
+    {
+      "asset_id": "asset_dot",
+      "symbol": "DOT",
+      "name": "polkadot",
+      "keywords": [
+        "crypto",
+        "substrate"
+      ]
+    },
+    {
+      "asset_id": "asset_matic",
+      "symbol": "MATIC",
+      "name": "polygon",
+      "keywords": [
+        "layer2",
+        "crypto"
+      ]
+    },
+    {
+      "asset_id": "asset_avax",
+      "symbol": "AVAX",
+      "name": "avalanche",
+      "keywords": [
+        "blockchain",
+        "crypto"
+      ]
+    },
+    {
+      "asset_id": "asset_doge",
+      "symbol": "DOGE",
+      "name": "dogecoin",
+      "keywords": [
+        "meme coin",
+        "crypto"
+      ]
+    },
+    {
+      "asset_id": "asset_shib",
+      "symbol": "SHIB",
+      "name": "shiba inu",
+      "keywords": [
+        "meme coin",
+        "crypto"
+      ]
+    },
+    {
+      "asset_id": "asset_ltc",
+      "symbol": "LTC",
+      "name": "litecoin",
+      "keywords": [
+        "crypto"
+      ]
+    },
+    {
+      "asset_id": "asset_link",
+      "symbol": "LINK",
+      "name": "chainlink",
+      "keywords": [
+        "oracle",
+        "crypto"
+      ]
+    },
+    {
+      "asset_id": "asset_uni",
+      "symbol": "UNI",
+      "name": "uniswap",
+      "keywords": [
+        "dex",
+        "crypto"
+      ]
+    },
+    {
+      "asset_id": "asset_aave",
+      "symbol": "AAVE",
+      "name": "defi lending",
+      "keywords": [
+        "crypto"
+      ]
+    },
+    {
+      "asset_id": "asset_sui",
+      "symbol": "SUI",
+      "name": "sui network",
+      "keywords": [
+        "blockchain",
+        "crypto"
+      ]
+    },
+    {
+      "asset_id": "asset_near",
+      "symbol": "NEAR",
+      "name": "near protocol",
+      "keywords": [
+        "blockchain",
+        "crypto"
+      ]
+    },
+    {
+      "asset_id": "asset_atom",
+      "symbol": "ATOM",
+      "name": "cosmos",
+      "keywords": [
+        "interchain",
+        "crypto"
+      ]
+    },
+    {
+      "asset_id": "asset_fil",
+      "symbol": "FIL",
+      "name": "filecoin",
+      "keywords": [
+        "storage",
+        "crypto"
+      ]
+    },
+    {
+      "asset_id": "asset_korea",
+      "symbol": "KOREA",
+      "name": "samsung",
+      "keywords": [
+        "galaxy",
+        "semiconductor",
+        "display",
+        "memory",
+        "smartphone"
+      ]
+    },
+    {
+      "asset_id": "asset_china",
+      "symbol": "CHINA",
+      "name": "huawei",
+      "keywords": [
+        "smartphone",
+        "telecom",
+        "networking"
+      ]
+    },
+    {
+      "asset_id": "asset_tsmc",
+      "symbol": "TSMC",
+      "name": "taiwan semiconductor manufacturing company",
+      "keywords": [
+        "foundry",
+        "chip fabrication",
+        "taiwan"
+      ]
+    },
+    {
+      "asset_id": "asset_dram",
+      "symbol": "DRAM",
+      "name": "skhynix",
+      "keywords": [
+        "memory",
+        "nand",
+        "korea"
+      ]
+    },
+    {
+      "asset_id": "asset_sony",
+      "symbol": "SONY",
+      "name": "playstation",
+      "keywords": [
+        "camera",
+        "sensor",
+        "japan"
+      ]
+    },
+    {
+      "asset_id": "asset_japan",
+      "symbol": "JAPAN",
+      "name": "panasonic",
+      "keywords": [
+        "battery",
+        "electronics"
+      ]
+    },
+    {
+      "asset_id": "asset_japan",
+      "symbol": "JAPAN",
+      "name": "toshiba corporation",
+      "keywords": [
+        "electronics",
+        "infrastructure"
+      ]
+    },
+    {
+      "asset_id": "asset_nec",
+      "symbol": "NEC",
+      "name": "japan",
+      "keywords": [
+        "networking",
+        "ict"
+      ]
+    },
+    {
+      "asset_id": "asset_japan",
+      "symbol": "JAPAN",
+      "name": "fujitsu limited",
+      "keywords": [
+        "computing",
+        "it services"
+      ]
+    },
+    {
+      "asset_id": "asset_japan",
+      "symbol": "JAPAN",
+      "name": "softbank",
+      "keywords": [
+        "masayoshi son",
+        "vision fund",
+        "ai investments"
+      ]
+    },
+    {
+      "asset_id": "asset_japan",
+      "symbol": "JAPAN",
+      "name": "rakuten",
+      "keywords": [
+        "e-commerce",
+        "fintech"
+      ]
+    },
+    {
+      "asset_id": "asset_ntt",
+      "symbol": "NTT",
+      "name": "nippon telegraph and telephone",
+      "keywords": [
+        "telecom",
+        "japan",
+        "ntt docomo"
+      ]
+    },
+    {
+      "asset_id": "asset_lg",
+      "symbol": "LG",
+      "name": "display",
+      "keywords": [
+        "appliances",
+        "smartphone",
+        "korea"
+      ]
+    },
+    {
+      "asset_id": "asset_naver",
+      "symbol": "NAVER",
+      "name": "search engine",
+      "keywords": [
+        "line app",
+        "ai",
+        "korea"
+      ]
+    },
+    {
+      "asset_id": "asset_kakao",
+      "symbol": "KAKAO",
+      "name": "kakao talk",
+      "keywords": [
+        "fintech",
+        "mobility",
+        "korea"
+      ]
+    },
+    {
+      "asset_id": "asset_grab",
+      "symbol": "GRAB",
+      "name": "ride hailing",
+      "keywords": [
+        "fintech",
+        "singapore",
+        "southeast asia"
+      ]
+    },
+    {
+      "asset_id": "asset_sea_limited",
+      "symbol": "SEA LIMITED",
+      "name": "sea ltd",
+      "keywords": [
+        "shopee",
+        "garena",
+        "singapore",
+        "forrest li"
+      ]
+    },
+    {
+      "asset_id": "asset_goto",
+      "symbol": "GOTO",
+      "name": "gojek",
+      "keywords": [
+        "tokopedia",
+        "indonesia",
+        "super app"
+      ]
+    },
+    {
+      "asset_id": "asset_bukalapak",
+      "symbol": "BUKALAPAK",
+      "name": "e-commerce",
+      "keywords": [
+        "indonesia"
+      ]
+    },
+    {
+      "asset_id": "asset_viettel_group",
+      "symbol": "VIETTEL GROUP",
+      "name": "viettel",
+      "keywords": [
+        "telecom",
+        "vietnam"
+      ]
+    },
+    {
+      "asset_id": "asset_ai",
+      "symbol": "AI",
+      "name": "bytedance",
+      "keywords": [
+        "tiktok",
+        "douyin",
+        "china"
+      ]
+    },
+    {
+      "asset_id": "asset_baidu",
+      "symbol": "BAIDU",
+      "name": "baidu inc",
+      "keywords": [
+        "chinese search engine",
+        "ai lab",
+        "autonomous driving"
+      ]
+    },
+    {
+      "asset_id": "asset_cloud",
+      "symbol": "CLOUD",
+      "name": "alibaba",
+      "keywords": [
+        "alipay",
+        "ecommerce",
+        "jack ma"
+      ]
+    },
+    {
+      "asset_id": "asset_jd",
+      "symbol": "JD",
+      "name": "jingdong",
+      "keywords": [
+        "china ecommerce",
+        "logistics"
+      ]
+    },
+    {
+      "asset_id": "asset_china",
+      "symbol": "CHINA",
+      "name": "meituan dianping",
+      "keywords": [
+        "delivery",
+        "super app"
+      ]
+    },
+    {
+      "asset_id": "asset_iot",
+      "symbol": "IOT",
+      "name": "xiaomi corp",
+      "keywords": [
+        "smartphone",
+        "mi",
+        "china"
+      ]
+    },
+    {
+      "asset_id": "asset_oppo",
+      "symbol": "OPPO",
+      "name": "smartphone",
+      "keywords": [
+        "consumer electronics",
+        "china"
+      ]
+    },
+    {
+      "asset_id": "asset_vivo",
+      "symbol": "VIVO",
+      "name": "smartphone",
+      "keywords": [
+        "imaging",
+        "china"
+      ]
+    },
+    {
+      "asset_id": "asset_pc",
+      "symbol": "PC",
+      "name": "lenovo group",
+      "keywords": [
+        "laptop",
+        "thinkpad",
+        "china"
+      ]
+    },
+    {
+      "asset_id": "asset_dji",
+      "symbol": "DJI",
+      "name": "dji innovations",
+      "keywords": [
+        "drone",
+        "aerial photography",
+        "china"
+      ]
+    },
+    {
+      "asset_id": "asset_china",
+      "symbol": "CHINA",
+      "name": "oneplus",
+      "keywords": [
+        "smartphone",
+        "oppo subsidiary"
+      ]
+    },
+    {
+      "asset_id": "asset_cloud",
+      "symbol": "CLOUD",
+      "name": "tencent holdings",
+      "keywords": [
+        "wechat",
+        "gaming",
+        "china"
+      ]
+    },
+    {
+      "asset_id": "asset_china",
+      "symbol": "CHINA",
+      "name": "ping an group",
+      "keywords": [
+        "fintech",
+        "ai healthcare"
+      ]
+    },
+    {
+      "asset_id": "asset_smic",
+      "symbol": "SMIC",
+      "name": "semiconductor manufacturing international corp",
+      "keywords": [
+        "china",
+        "foundry"
+      ]
+    },
+    {
+      "asset_id": "asset_foxconn",
+      "symbol": "FOXCONN",
+      "name": "hon hai precision",
+      "keywords": [
+        "electronics manufacturing",
+        "apple supplier",
+        "taiwan"
+      ]
+    },
+    {
+      "asset_id": "asset_acer",
+      "symbol": "ACER",
+      "name": "acer inc",
+      "keywords": [
+        "computers",
+        "laptops",
+        "taiwan"
+      ]
+    },
+    {
+      "asset_id": "asset_asus",
+      "symbol": "ASUS",
+      "name": "asustek",
+      "keywords": [
+        "pc hardware",
+        "gpu",
+        "taiwan"
+      ]
+    },
+    {
+      "asset_id": "asset_hybe",
+      "symbol": "HYBE",
+      "name": "bts",
+      "keywords": [
+        "kpop",
+        "entertainment tech",
+        "bang si hyuk"
+      ]
+    },
+    {
+      "asset_id": "asset_ador",
+      "symbol": "ADOR",
+      "name": "subsidiary of hybe",
+      "keywords": [
+        "newjeans",
+        "creative entertainment"
+      ]
+    },
+    {
+      "asset_id": "asset_grabpay",
+      "symbol": "GRABPAY",
+      "name": "grab financial group",
+      "keywords": [
+        "fintech",
+        "singapore"
+      ]
+    },
+    {
+      "asset_id": "asset_gojek",
+      "symbol": "GOJEK",
+      "name": "ride hailing",
+      "keywords": [
+        "payments",
+        "delivery",
+        "indonesia"
+      ]
+    },
+    {
+      "asset_id": "asset_tokopedia",
+      "symbol": "TOKOPEDIA",
+      "name": "ecommerce",
+      "keywords": [
+        "indonesia",
+        "goto subsidiary"
+      ]
+    },
+    {
+      "asset_id": "asset_pt_telecom_indonesia",
+      "symbol": "PT TELECOM INDONESIA",
+      "name": "telkom indonesia",
+      "keywords": [
+        "telecom",
+        "broadband",
+        "indonesia"
+      ]
+    },
+    {
+      "asset_id": "asset_singtel",
+      "symbol": "SINGTEL",
+      "name": "singapore telecom",
+      "keywords": [
+        "telecom",
+        "mobile carrier"
+      ]
+    },
+    {
+      "asset_id": "asset_maxis",
+      "symbol": "MAXIS",
+      "name": "maxis communications",
+      "keywords": [
+        "malaysia",
+        "telecom"
+      ]
+    },
+    {
+      "asset_id": "asset_aia",
+      "symbol": "AIA",
+      "name": "insurance tech",
+      "keywords": [
+        "hong kong"
+      ]
+    },
+    {
+      "asset_id": "asset_dbs",
+      "symbol": "DBS",
+      "name": "singapore",
+      "keywords": [
+        "fintech",
+        "digital banking"
+      ]
+    },
+    {
+      "asset_id": "asset_cathay_life",
+      "symbol": "CATHAY LIFE",
+      "name": "cathay",
+      "keywords": [
+        "taiwan",
+        "insurance",
+        "fintech"
+      ]
+    },
+    {
+      "asset_id": "asset_posco",
+      "symbol": "POSCO",
+      "name": "materials",
+      "keywords": [
+        "battery",
+        "korea",
+        "steeltech"
+      ]
+    },
+    {
+      "asset_id": "asset_ev",
+      "symbol": "EV",
+      "name": "toyota",
+      "keywords": [
+        "robotics",
+        "japan",
+        "mobility tech"
+      ]
+    },
+    {
+      "asset_id": "asset_ev",
+      "symbol": "EV",
+      "name": "hyundai",
+      "keywords": [
+        "robotics",
+        "korea",
+        "mobility innovation"
+      ]
+    }
+  ]
+}
