@@ -3,7 +3,7 @@
 
 import json, os, argparse, re
 
-BASE_DIR = "./data"
+BASE_DIR = "/home/daniel/Desktop/CES2026/CES2026/data"
 WEIGHT_JSON = os.path.join(BASE_DIR, "weights.json")
 ASSETS_JSON = os.path.join(BASE_DIR, "assets.json")
 PEOPLE_JSON = os.path.join(BASE_DIR, "people.json")
